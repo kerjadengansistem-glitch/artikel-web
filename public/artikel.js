@@ -74,12 +74,12 @@ const artikelData = [
   {
     "judul": "Data Science & AI: Mengolah Data Menjadi Keputusan Cerdas",
     "slug": "data-science-dan-ai-keputusan-cerdas",
-    "ringkasan": "Bagaimana data science dan AI bekerja bersama untuk menghasilkan insight bisnis yang actionable dan bernilai tinggi.",
+    "ringkasan": "Data science dan AI memberi bisnis kemampuan untuk membaca pola, memahami perilaku, dan mengambil keputusan dengan dasar yang lebih kuat. Artikel ini membahas bagaimana keduanya saling melengkapi, tantangan implementasinya, dan cara memanfaatkannya secara praktis dalam konteks bisnis modern.",
     "gambar": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
     "kategori": "Data Science",
     "tag": "data",
     "tanggal": "15 April 2026",
-    "baca": "9 menit",
+    "baca": "10 menit",
     "link": "artikel/data-science-dan-ai-keputusan-cerdas.html",
     "featured": false
   },

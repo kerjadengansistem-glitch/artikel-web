@@ -2,6 +2,21 @@
 
 Website artikel statis untuk KerjaDenganSistem, siap untuk publish artikel harian otomatis.
 
+## Standar editorial baru
+
+Agar kualitas artikel terasa lebih profesional dan mirip media teknologi modern, gunakan standar berikut untuk artikel baru:
+
+- Panjang ideal: **900–1500 kata**
+- Nada tulisan: **profesional, jelas, tidak kaku, mudah dipahami pembaca Indonesia**
+- Struktur minimum:
+  1. lead/pembuka yang memberi konteks
+  2. penjelasan inti topik
+  3. contoh penerapan atau sudut bisnis/praktis
+  4. tantangan / catatan penting
+  5. penutup yang mengikat insight utama
+- Hindari artikel yang terlalu pendek, generik, atau terasa seperti hasil AI mentah
+- Utamakan paragraf yang informatif, runtut, dan punya transisi yang enak dibaca
+
 ## Struktur penting
 
 - `content/articles.json` → sumber utama artikel yang sudah live
@@ -36,12 +51,14 @@ node scripts/publish-next.js
   "gambar": "https://images.unsplash.com/...",
   "kategori": "AI Generatif",
   "tag": "ai",
-  "baca": "7 menit",
+  "baca": "9 menit",
   "featured": false,
   "konten": [
-    "Paragraf 1",
-    "Paragraf 2",
-    "Paragraf 3"
+    "Lead pembuka yang kuat dan memberi konteks.",
+    "Paragraf penjelasan inti topik.",
+    "Paragraf pendalaman, contoh, atau dampak praktis.",
+    "Paragraf tambahan untuk analisis atau risiko.",
+    "Penutup yang merangkum insight utama."
   ]
 }
 ```

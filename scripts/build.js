@@ -2,9 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 const repoRoot = path.join(__dirname, '..');
+const outputDir = path.join(repoRoot, 'public');
 const baseUrl = 'https://artikel.kerjadengansistem.web.id';
 const articlesPath = path.join(repoRoot, 'content', 'articles.json');
-const articleDir = path.join(repoRoot, 'artikel');
+const sourceIndexPath = path.join(repoRoot, 'index.html');
 
 const escapeHtml = (text='') => String(text)
   .replace(/&/g, '&amp;')
@@ -18,7 +19,8 @@ if (!Array.isArray(articles) || !articles.length) {
   throw new Error('content/articles.json kosong atau tidak valid.');
 }
 
-fs.mkdirSync(articleDir, { recursive: true });
+fs.rmSync(outputDir, { recursive: true, force: true });
+fs.mkdirSync(path.join(outputDir, 'artikel'), { recursive: true });
 
 const publicArticles = articles.map((a) => ({
   judul: a.judul,
@@ -33,8 +35,10 @@ const publicArticles = articles.map((a) => ({
   featured: !!a.featured
 }));
 
+// Use the existing homepage template, but feed it fresh generated data.
+fs.copyFileSync(sourceIndexPath, path.join(outputDir, 'index.html'));
 fs.writeFileSync(
-  path.join(repoRoot, 'artikel.js'),
+  path.join(outputDir, 'artikel.js'),
   `const artikelData = ${JSON.stringify(publicArticles, null, 2)};\n`,
   'utf8'
 );
@@ -71,10 +75,11 @@ const articleTemplate = ({ judul, slug, ringkasan, gambar, kategori, tanggal, ba
 </html>`;
 
 for (const article of articles) {
-  fs.writeFileSync(path.join(articleDir, `${article.slug}.html`), articleTemplate(article), 'utf8');
+  fs.writeFileSync(path.join(outputDir, 'artikel', `${article.slug}.html`), articleTemplate(article), 'utf8');
 }
 
-fs.writeFileSync(path.join(repoRoot, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${baseUrl}/sitemap.xml\n`, 'utf8');
+fs.writeFileSync(path.join(outputDir, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${baseUrl}/sitemap.xml\n`, 'utf8');
 const urls = [baseUrl + '/', ...articles.map((a) => `${baseUrl}/artikel/${a.slug}.html`)];
-fs.writeFileSync(path.join(repoRoot, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `  <url>\n    <loc>${u}</loc>\n  </url>`).join('\n')}\n</urlset>\n`, 'utf8');
+fs.writeFileSync(path.join(outputDir, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `  <url>\n    <loc>${u}</loc>\n  </url>`).join('\n')}\n</urlset>\n`, 'utf8');
+
 console.log(`Build selesai: ${articles.length} artikel diproses.`);

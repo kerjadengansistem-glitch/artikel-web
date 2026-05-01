@@ -1,0 +1,10 @@
+{
+  "name": "artikel-web",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static article website for KerjaDenganSistem with daily auto publish support.",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "publish:next": "node scripts/publish-next.js"
+  }
+}

@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Apa Itu AI Agent dan Kenapa Bisnis Mulai Memakainya?",
+    "slug": "apa-itu-ai-agent-dan-kenapa-bisnis-mulai-memakainya",
+    "ringkasan": "Memahami konsep AI agent, cara kerjanya, dan alasan kenapa bisnis modern mulai mengadopsinya untuk automation dan pengambilan keputusan.",
+    "gambar": "https://images.unsplash.com/photo-1675557009875-436f8eaa5c4f?w=1200&q=80",
+    "kategori": "AI Generatif",
+    "tag": "ai",
+    "tanggal": "1 Mei 2026",
+    "baca": "7 menit",
+    "link": "artikel/apa-itu-ai-agent-dan-kenapa-bisnis-mulai-memakainya.html",
+    "featured": false
+  },
+  {
     "judul": "Revolusi AI Generatif 2026: Bagaimana AI Mengubah Cara Kita Bekerja",
     "slug": "revolusi-ai-generatif-2026",
     "ringkasan": "Tahun 2026 menjadi titik balik bagi AI generatif. Dari pembuatan konten otomatis hingga coding assistant, teknologi ini telah mengubah lanskap industri secara fundamental. Pelajari bagaimana Anda bisa memanfaatkannya.",

@@ -62,12 +62,12 @@ const artikelData = [
   {
     "judul": "Membangun Chatbot AI untuk Bisnis: Panduan Praktis",
     "slug": "membangun-chatbot-ai-untuk-bisnis",
-    "ringkasan": "Langkah demi langkah membuat chatbot AI yang cerdas untuk meningkatkan layanan pelanggan bisnis Anda.",
+    "ringkasan": "Chatbot AI kini menjadi salah satu cara paling realistis bagi bisnis untuk meningkatkan kecepatan respons tanpa menambah beban operasional secara linear. Artikel ini membahas langkah praktis membangun chatbot AI yang berguna, aman, dan benar-benar relevan untuk kebutuhan bisnis.",
     "gambar": "https://images.unsplash.com/photo-1531746790095-e5995fef7b01?w=1200&q=80",
     "kategori": "Chatbot AI",
     "tag": "ai",
     "tanggal": "18 April 2026",
-    "baca": "7 menit",
+    "baca": "10 menit",
     "link": "artikel/membangun-chatbot-ai-untuk-bisnis.html",
     "featured": false
   },

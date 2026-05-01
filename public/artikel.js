@@ -3,7 +3,7 @@ const artikelData = [
     "judul": "Apa Itu AI Agent dan Kenapa Bisnis Mulai Memakainya?",
     "slug": "apa-itu-ai-agent-dan-kenapa-bisnis-mulai-memakainya",
     "ringkasan": "Memahami konsep AI agent, cara kerjanya, dan alasan kenapa bisnis modern mulai mengadopsinya untuk automation dan pengambilan keputusan.",
-    "gambar": "https://images.unsplash.com/photo-1675557009875-436f8eaa5c4f?w=1200&q=80",
+    "gambar": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200&q=80",
     "kategori": "AI Generatif",
     "tag": "ai",
     "tanggal": "1 Mei 2026",
@@ -63,7 +63,7 @@ const artikelData = [
     "judul": "Membangun Chatbot AI untuk Bisnis: Panduan Praktis",
     "slug": "membangun-chatbot-ai-untuk-bisnis",
     "ringkasan": "Chatbot AI kini menjadi salah satu cara paling realistis bagi bisnis untuk meningkatkan kecepatan respons tanpa menambah beban operasional secara linear. Artikel ini membahas langkah praktis membangun chatbot AI yang berguna, aman, dan benar-benar relevan untuk kebutuhan bisnis.",
-    "gambar": "https://images.unsplash.com/photo-1531746790095-e5995fef7b01?w=1200&q=80",
+    "gambar": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80",
     "kategori": "Chatbot AI",
     "tag": "ai",
     "tanggal": "18 April 2026",
@@ -86,12 +86,12 @@ const artikelData = [
   {
     "judul": "Robotics & AI: Masa Depan Otomasi Industri",
     "slug": "robotics-dan-ai-masa-depan-otomasi-industri",
-    "ringkasan": "Eksplorasi bagaimana robotika yang didukung AI sedang merevolusi manufaktur, logistik, dan berbagai sektor industri.",
+    "ringkasan": "Robotika dan AI semakin erat membentuk masa depan otomasi industri. Artikel ini membahas bagaimana kombinasi keduanya mengubah proses manufaktur, logistik, dan operasional modern, sekaligus menjelaskan tantangan implementasi dan peluang yang paling realistis bagi bisnis.",
     "gambar": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80",
     "kategori": "Robotics",
     "tag": "auto",
     "tanggal": "12 April 2026",
-    "baca": "6 menit",
+    "baca": "10 menit",
     "link": "artikel/robotics-dan-ai-masa-depan-otomasi-industri.html",
     "featured": false
   }

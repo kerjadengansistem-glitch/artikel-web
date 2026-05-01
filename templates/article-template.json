@@ -1,0 +1,21 @@
+{
+  "judul": "Judul artikel yang kuat, jelas, dan relevan dengan pencarian pembaca",
+  "slug": "judul-artikel-dengan-format-url-rapi",
+  "ringkasan": "Ringkasan 2-3 kalimat yang menjelaskan topik, manfaat artikel, dan alasan pembaca perlu melanjutkan membaca.",
+  "gambar": "https://images.unsplash.com/photo-xxxxxxxxxxxx?w=1200&q=80",
+  "kategori": "AI Generatif",
+  "tag": "ai",
+  "baca": "9 menit",
+  "featured": false,
+  "konten": [
+    "Lead pembuka yang memberi konteks dan menjelaskan kenapa topik ini penting saat ini.",
+    "Paragraf kedua yang mendefinisikan konsep utama secara jelas dan mudah dipahami.",
+    "Paragraf ketiga yang memperluas pembahasan dengan sudut pandang praktis atau bisnis.",
+    "Paragraf keempat yang memberi contoh penerapan nyata di dunia kerja atau bisnis.",
+    "Paragraf kelima yang membahas manfaat utama atau dampak positif dari pendekatan ini.",
+    "Paragraf keenam yang membahas tantangan, risiko, atau hal yang perlu diperhatikan.",
+    "Paragraf ketujuh yang memberi arahan implementasi awal yang realistis untuk pemula atau bisnis.",
+    "Paragraf kedelapan yang merangkum insight penting sebelum penutup.",
+    "Paragraf penutup yang kuat, profesional, dan mengikat ide utama artikel."
+  ]
+}

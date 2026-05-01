@@ -17,6 +17,30 @@ Agar kualitas artikel terasa lebih profesional dan mirip media teknologi modern,
 - Hindari artikel yang terlalu pendek, generik, atau terasa seperti hasil AI mentah
 - Utamakan paragraf yang informatif, runtut, dan punya transisi yang enak dibaca
 
+## Template autopost versi media profesional
+
+Agar artikel baru tidak terasa pendek atau generik, workflow sekarang memakai standar berikut:
+
+- minimal **8 paragraf utama**
+- ringkasan harus lebih kaya konteks
+- artikel harus punya alur: konteks → penjelasan → contoh/penerapan → tantangan → penutup
+- validasi otomatis akan menolak draft yang terlalu tipis
+- template siap pakai tersedia di `templates/article-template.json`
+
+## Validasi kualitas artikel
+
+Sebelum build, sistem akan menjalankan:
+
+```bash
+npm run validate:articles
+```
+
+Validasi ini mengecek:
+- field wajib lengkap
+- tag valid
+- ringkasan tidak terlalu pendek
+- jumlah paragraf memadai untuk standar editorial media
+
 ## Struktur penting
 
 - `content/articles.json` → sumber utama artikel yang sudah live

@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "Static article website for KerjaDenganSistem with daily auto publish support.",
   "scripts": {
-    "build": "node scripts/build.js",
-    "publish:next": "node scripts/publish-next.js"
+    "build": "node scripts/validate-articles.js && node scripts/build.js",
+    "publish:next": "node scripts/publish-next.js",
+    "validate:articles": "node scripts/validate-articles.js"
   }
 }

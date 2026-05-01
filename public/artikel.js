@@ -38,12 +38,12 @@ const artikelData = [
   {
     "judul": "5 Tools Automation yang Wajib Anda Kuasai di 2026",
     "slug": "tools-automation-yang-wajib-dikuasai-2026",
-    "ringkasan": "Dari Zapier hingga n8n, kenali tools automation terbaik yang bisa meningkatkan produktivitas kerja Anda secara drastis.",
+    "ringkasan": "Automation menjadi kebutuhan praktis bagi bisnis modern, bukan lagi sekadar eksperimen teknis. Artikel ini membahas tools automation yang paling relevan di 2026, kelebihan masing-masing platform, serta cara memilih tool yang sesuai dengan kebutuhan tim, alur kerja, dan kapasitas operasional.",
     "gambar": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200&q=80",
     "kategori": "Automation",
     "tag": "auto",
     "tanggal": "22 April 2026",
-    "baca": "5 menit",
+    "baca": "10 menit",
     "link": "artikel/tools-automation-yang-wajib-dikuasai-2026.html",
     "featured": false
   },

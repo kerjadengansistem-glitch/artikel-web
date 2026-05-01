@@ -26,12 +26,12 @@ const artikelData = [
   {
     "judul": "Panduan Lengkap Machine Learning untuk Pemula",
     "slug": "panduan-machine-learning-untuk-pemula",
-    "ringkasan": "Memahami konsep dasar machine learning, jenis-jenis algoritma, dan bagaimana memulai perjalanan Anda di dunia ML.",
+    "ringkasan": "Machine learning menjadi fondasi penting di balik banyak sistem digital modern. Artikel ini membahas konsep dasarnya secara runtut, jenis-jenis pendekatannya, tools yang umum dipakai, serta langkah realistis bagi pemula yang ingin mulai belajar tanpa tersesat oleh istilah teknis yang membingungkan.",
     "gambar": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=1200&q=80",
     "kategori": "Machine Learning",
     "tag": "ml",
     "tanggal": "25 April 2026",
-    "baca": "6 menit",
+    "baca": "11 menit",
     "link": "artikel/panduan-machine-learning-untuk-pemula.html",
     "featured": false
   },

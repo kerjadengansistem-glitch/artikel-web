@@ -50,12 +50,12 @@ const artikelData = [
   {
     "judul": "Neural Network: Otak di Balik Kecerdasan Buatan Modern",
     "slug": "neural-network-otak-di-balik-ai-modern",
-    "ringkasan": "Pelajari bagaimana neural network bekerja, dari perceptron sederhana hingga arsitektur transformer yang revolusioner.",
+    "ringkasan": "Neural network menjadi fondasi penting di balik banyak lompatan besar dalam kecerdasan buatan modern. Artikel ini membahas cara kerjanya secara bertahap, mengapa ia begitu berpengaruh dalam AI masa kini, serta bagaimana pembaca pemula bisa memahami konsep dasarnya tanpa harus tenggelam dalam istilah teknis yang rumit.",
     "gambar": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
     "kategori": "Deep Learning",
     "tag": "dl",
     "tanggal": "20 April 2026",
-    "baca": "10 menit",
+    "baca": "11 menit",
     "link": "artikel/neural-network-otak-di-balik-ai-modern.html",
     "featured": false
   },

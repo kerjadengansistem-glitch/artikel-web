@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Bagaimana Automation Mengubah Cara Tim Kecil Bekerja Lebih Cepat",
+    "slug": "bagaimana-automation-mengubah-cara-tim-kecil-bekerja-lebih-cepat",
+    "ringkasan": "Automation tidak lagi identik dengan perusahaan besar. Artikel ini membahas bagaimana tim kecil bisa memanfaatkan automation untuk mengurangi pekerjaan berulang, mempercepat eksekusi, dan meningkatkan kualitas kerja tanpa harus menambah beban operasional secara berlebihan.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "2 Mei 2026",
+    "baca": "10 menit",
+    "link": "artikel/bagaimana-automation-mengubah-cara-tim-kecil-bekerja-lebih-cepat.html",
+    "featured": false
+  },
+  {
     "judul": "Apa Itu AI Agent dan Kenapa Bisnis Mulai Memakainya?",
     "slug": "apa-itu-ai-agent-dan-kenapa-bisnis-mulai-memakainya",
     "ringkasan": "Memahami konsep AI agent, cara kerjanya, dan alasan kenapa bisnis modern mulai mengadopsinya untuk automation dan pengambilan keputusan.",
@@ -21,7 +33,7 @@ const artikelData = [
     "tanggal": "28 April 2026",
     "baca": "10 menit",
     "link": "artikel/revolusi-ai-generatif-2026.html",
-    "featured": true
+    "featured": false
   },
   {
     "judul": "Panduan Lengkap Machine Learning untuk Pemula",

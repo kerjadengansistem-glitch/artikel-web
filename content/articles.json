@@ -1,5 +1,28 @@
 [
   {
+    "judul": "Bagaimana Automation Mengubah Cara Tim Kecil Bekerja Lebih Cepat",
+    "slug": "bagaimana-automation-mengubah-cara-tim-kecil-bekerja-lebih-cepat",
+    "ringkasan": "Automation tidak lagi identik dengan perusahaan besar. Artikel ini membahas bagaimana tim kecil bisa memanfaatkan automation untuk mengurangi pekerjaan berulang, mempercepat eksekusi, dan meningkatkan kualitas kerja tanpa harus menambah beban operasional secara berlebihan.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "baca": "10 menit",
+    "featured": false,
+    "konten": [
+      "Dalam banyak bisnis kecil, tantangan terbesar bukan selalu kekurangan ide, melainkan kekurangan waktu untuk mengeksekusinya dengan rapi dan konsisten. Tim yang kecil sering harus menangani banyak peran sekaligus, mulai dari operasional, pemasaran, sampai layanan pelanggan.",
+      "Di titik inilah automation menjadi relevan. Automation membantu tim kecil memindahkan pekerjaan yang berulang dari tenaga manual ke sistem yang bisa berjalan lebih konsisten. Hasilnya bukan sekadar hemat waktu, tetapi juga mengurangi kesalahan dan menjaga ritme kerja tetap stabil.",
+      "Banyak orang membayangkan automation sebagai sistem rumit yang hanya cocok untuk perusahaan besar. Padahal, kenyataannya banyak automation sederhana yang justru paling terasa manfaatnya bagi tim kecil, karena setiap jam kerja yang dihemat punya dampak langsung terhadap kapasitas tim.",
+      "Contoh paling umum adalah otomatisasi alur lead masuk. Ketika seseorang mengisi form, data bisa langsung masuk ke spreadsheet, CRM, email notifikasi, dan WhatsApp follow-up tanpa harus dipindahkan manual satu per satu. Proses yang terlihat sederhana ini bisa menghemat banyak waktu setiap minggu.",
+      "Automation juga berguna dalam pembuatan konten. Tim kecil bisa membuat alur kerja yang membantu mengumpulkan ide, mengubah poin kasar menjadi draft awal, menjadwalkan publikasi, hingga menyebarkan hasilnya ke beberapa channel. Dengan begitu, tim bisa fokus pada kualitas strategi dan editing, bukan hanya pekerjaan teknis berulang.",
+      "Meski begitu, automation bukan berarti semua hal harus dibuat otomatis. Proses yang buruk kalau diotomasi hanya akan menjadi proses buruk yang berjalan lebih cepat. Karena itu, langkah pertama yang tepat adalah memilih proses yang memang sudah cukup jelas, berulang, dan sering menyita energi tim.",
+      "Pilihan tools juga penting. Untuk sebagian tim, platform seperti n8n, Make, atau Zapier sudah cukup untuk membangun banyak skenario automation praktis. Yang paling penting bukan memilih tool yang paling populer, tetapi memilih tool yang paling sesuai dengan kebutuhan, budget, dan kemampuan maintenance tim.",
+      "Automation yang baik juga harus mudah dipantau. Tim perlu tahu apa yang berjalan, apa yang gagal, dan kapan intervensi manusia tetap dibutuhkan. Logging, notifikasi error, dan dokumentasi workflow menjadi bagian penting agar automation benar-benar membantu, bukan malah menambah kebingungan.",
+      "Bagi tim kecil, pendekatan terbaik adalah memulai dari satu workflow yang dampaknya paling terasa. Setelah hasilnya terbukti, baru lanjutkan ke proses lain yang serupa. Dengan cara ini, automation tumbuh sebagai aset operasional, bukan proyek teknis yang berhenti di tengah jalan.",
+      "Pada akhirnya, automation bukan hanya soal efisiensi, tetapi soal memberi ruang bagi tim kecil untuk bekerja lebih fokus pada hal yang bernilai tinggi. Ketika pekerjaan berulang berkurang, tim punya lebih banyak energi untuk strategi, kreativitas, dan keputusan yang benar-benar mendorong pertumbuhan bisnis."
+    ],
+    "tanggal": "2 Mei 2026"
+  },
+  {
     "judul": "Apa Itu AI Agent dan Kenapa Bisnis Mulai Memakainya?",
     "slug": "apa-itu-ai-agent-dan-kenapa-bisnis-mulai-memakainya",
     "ringkasan": "Memahami konsep AI agent, cara kerjanya, dan alasan kenapa bisnis modern mulai mengadopsinya untuk automation dan pengambilan keputusan.",
@@ -35,7 +58,7 @@
     "tag": "ai",
     "tanggal": "28 April 2026",
     "baca": "10 menit",
-    "featured": true,
+    "featured": false,
     "konten": [
       "AI generatif memasuki tahun 2026 dengan posisi yang jauh berbeda dibanding beberapa tahun sebelumnya. Jika dulu ia sering dipandang sebagai teknologi yang menarik namun masih eksperimental, kini AI generatif mulai menjadi bagian nyata dari cara banyak tim bekerja, mulai dari pemasaran, operasional, customer service, hingga pengembangan produk.",
       "Perubahan ini terjadi karena nilai praktis AI generatif semakin mudah dirasakan. Bukan hanya perusahaan teknologi besar yang memanfaatkannya, tetapi juga bisnis kecil, tim kreatif, freelancer, dan organisasi yang sebelumnya tidak memiliki sumber daya besar untuk membangun sistem otomatis yang kompleks. Dengan bantuan model AI yang semakin mudah diakses, banyak proses kerja kini bisa dimulai lebih cepat dan dijalankan dengan beban manual yang lebih rendah.",

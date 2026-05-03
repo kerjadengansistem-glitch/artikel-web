@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Prompt Engineering untuk Bisnis: Cara Menulis Prompt yang Lebih Efektif",
+    "slug": "prompt-engineering-untuk-bisnis-cara-menulis-prompt-yang-lebih-efektif",
+    "ringkasan": "Prompt engineering bukan sekadar soal memberi instruksi ke AI, tetapi tentang menyusun konteks, tujuan, dan format output agar hasilnya benar-benar berguna untuk kebutuhan bisnis. Artikel ini membahas prinsip dasarnya, kesalahan umum, dan cara membuat prompt yang lebih konsisten menghasilkan output berkualitas.",
+    "gambar": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
+    "kategori": "AI Generatif",
+    "tag": "ai",
+    "tanggal": "3 Mei 2026",
+    "baca": "10 menit",
+    "link": "artikel/prompt-engineering-untuk-bisnis-cara-menulis-prompt-yang-lebih-efektif.html",
+    "featured": false
+  },
+  {
     "judul": "Bagaimana Automation Mengubah Cara Tim Kecil Bekerja Lebih Cepat",
     "slug": "bagaimana-automation-mengubah-cara-tim-kecil-bekerja-lebih-cepat",
     "ringkasan": "Automation tidak lagi identik dengan perusahaan besar. Artikel ini membahas bagaimana tim kecil bisa memanfaatkan automation untuk mengurangi pekerjaan berulang, mempercepat eksekusi, dan meningkatkan kualitas kerja tanpa harus menambah beban operasional secara berlebihan.",
@@ -21,7 +33,7 @@ const artikelData = [
     "tanggal": "1 Mei 2026",
     "baca": "9 menit",
     "link": "artikel/apa-itu-ai-agent-dan-kenapa-bisnis-mulai-memakainya.html",
-    "featured": true
+    "featured": false
   },
   {
     "judul": "Revolusi AI Generatif 2026: Bagaimana AI Mengubah Cara Kita Bekerja",

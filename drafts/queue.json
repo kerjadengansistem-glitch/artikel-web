@@ -1,27 +1,5 @@
 [
   {
-    "judul": "Prompt Engineering untuk Bisnis: Cara Menulis Prompt yang Lebih Efektif",
-    "slug": "prompt-engineering-untuk-bisnis-cara-menulis-prompt-yang-lebih-efektif",
-    "ringkasan": "Prompt engineering bukan sekadar soal memberi instruksi ke AI, tetapi tentang menyusun konteks, tujuan, dan format output agar hasilnya benar-benar berguna untuk kebutuhan bisnis. Artikel ini membahas prinsip dasarnya, kesalahan umum, dan cara membuat prompt yang lebih konsisten menghasilkan output berkualitas.",
-    "gambar": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
-    "kategori": "AI Generatif",
-    "tag": "ai",
-    "baca": "10 menit",
-    "featured": false,
-    "konten": [
-      "Ketika bisnis mulai memakai AI generatif untuk menulis, merangkum, atau membantu analisis, satu hal cepat terlihat: hasil AI sangat dipengaruhi oleh cara kita memberi instruksi. Di sinilah prompt engineering menjadi keterampilan yang semakin penting, bukan hanya untuk pengguna teknis, tetapi juga untuk tim operasional, pemasaran, dan konten.",
-      "Prompt engineering pada dasarnya adalah proses menyusun instruksi agar model AI memahami konteks, tujuan, batasan, dan format hasil yang diinginkan. Banyak orang kecewa pada output AI bukan karena modelnya buruk, tetapi karena instruksi yang diberikan terlalu umum, terlalu pendek, atau tidak menjelaskan standar hasil yang diharapkan.",
-      "Dalam konteks bisnis, prompt yang baik biasanya memiliki empat elemen penting: peran, konteks, objective, dan format output. Misalnya, alih-alih hanya meminta AI membuat artikel tentang automation, jauh lebih efektif jika kita menjelaskan bahwa AI harus menulis sebagai editor media teknologi, menargetkan pembaca pemula, memakai bahasa Indonesia profesional, dan menyusun artikel dalam beberapa subbagian yang runtut.",
-      "Kejelasan konteks sangat berpengaruh terhadap kualitas hasil. Semakin jelas AI memahami siapa audiensnya, apa tujuan kontennya, dan batasan apa yang harus diikuti, semakin kecil kemungkinan output terasa generik. Karena itu, prompt yang baik tidak sekadar menyuruh, tetapi juga memberi arah berpikir yang benar kepada model.",
-      "Kesalahan umum yang sering terjadi adalah berharap AI bisa menebak semua kebutuhan pengguna dari satu kalimat singkat. Di banyak kasus, prompt yang terlalu minim justru menghasilkan jawaban yang terlihat rapi tetapi dangkal. Untuk kebutuhan bisnis, hasil seperti ini sering tidak cukup karena tetap membutuhkan banyak revisi manual.",
-      "Prompt engineering juga penting untuk menjaga konsistensi brand voice. Dengan struktur prompt yang tepat, bisnis bisa meminta AI menggunakan nada tertentu, menghindari frasa yang tidak diinginkan, atau selalu menyertakan elemen wajib seperti CTA, disclaimer, atau format heading tertentu. Ini sangat membantu ketika AI dipakai oleh beberapa orang dalam satu tim.",
-      "Dalam praktiknya, prompt terbaik jarang lahir sekali jadi. Biasanya prompt perlu diuji, diperbaiki, lalu diuji lagi berdasarkan hasil nyata. Pendekatan iteratif seperti ini jauh lebih sehat dibanding terus mengganti model tanpa memperbaiki kualitas instruksi yang mendasarinya.",
-      "Untuk workflow yang berulang, prompt bahkan sebaiknya diperlakukan seperti aset operasional. Simpan prompt yang terbukti efektif, dokumentasikan penggunaannya, dan buat versi template untuk kebutuhan serupa. Dengan cara ini, tim tidak perlu memulai dari nol setiap kali ingin meminta bantuan AI.",
-      "Bagi bisnis yang serius menggunakan AI, prompt engineering adalah salah satu cara termurah untuk meningkatkan kualitas hasil tanpa harus menambah biaya tool secara signifikan. Output yang lebih tepat berarti waktu revisi lebih singkat, kualitas kerja lebih stabil, dan peluang salah interpretasi lebih kecil.",
-      "Pada akhirnya, prompt engineering bukan trik sesaat, melainkan keterampilan kerja baru di era AI. Semakin baik bisnis memahami cara berkomunikasi dengan model, semakin besar pula nilai praktis yang bisa diambil dari teknologi ini dalam aktivitas sehari-hari."
-    ]
-  },
-  {
     "judul": "n8n untuk Pemula: Membangun Workflow Pertama yang Benar-Benar Berguna",
     "slug": "n8n-untuk-pemula-membangun-workflow-pertama-yang-benar-benar-berguna",
     "ringkasan": "n8n menjadi salah satu tool automation yang semakin populer karena fleksibel dan cocok untuk banyak skenario bisnis. Artikel ini membahas cara pandang yang tepat untuk memulai, jenis workflow pertama yang realistis, serta kesalahan awal yang sering membuat pemula berhenti di tengah jalan.",

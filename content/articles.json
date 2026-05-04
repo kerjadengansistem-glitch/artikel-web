@@ -1,5 +1,28 @@
 [
   {
+    "judul": "n8n untuk Pemula: Membangun Workflow Pertama yang Benar-Benar Berguna",
+    "slug": "n8n-untuk-pemula-membangun-workflow-pertama-yang-benar-benar-berguna",
+    "ringkasan": "n8n menjadi salah satu tool automation yang semakin populer karena fleksibel dan cocok untuk banyak skenario bisnis. Artikel ini membahas cara pandang yang tepat untuk memulai, jenis workflow pertama yang realistis, serta kesalahan awal yang sering membuat pemula berhenti di tengah jalan.",
+    "gambar": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "baca": "10 menit",
+    "featured": false,
+    "konten": [
+      "Banyak orang tertarik mencoba n8n karena mendengar bahwa tool ini fleksibel, kuat, dan cocok untuk automation yang lebih serius. Namun begitu masuk ke tampilan workflow pertama, tidak sedikit yang merasa bingung harus mulai dari mana. Banyak node, banyak istilah, dan terlalu banyak kemungkinan alur membuat pemula mudah kehilangan arah.",
+      "Cara terbaik memulai n8n bukan dengan mencoba membangun sistem yang besar, melainkan dengan memilih satu workflow sederhana yang manfaatnya langsung terasa. Pendekatan ini membuat proses belajar lebih ringan dan membantu pengguna memahami logika dasar automation tanpa terjebak kompleksitas sejak awal.",
+      "n8n bekerja dengan konsep node yang saling terhubung. Setiap node punya fungsi tertentu, misalnya menerima trigger, mengambil data, memproses data, atau mengirim data ke sistem lain. Ketika node-node ini disusun dalam urutan yang masuk akal, kita mendapatkan workflow yang bisa menjalankan tugas berulang secara otomatis.",
+      "Workflow pertama yang baik biasanya punya pola sederhana: ada pemicu, ada proses, lalu ada hasil akhir. Contohnya, ketika ada form masuk, data langsung dikirim ke Google Sheets, lalu tim menerima notifikasi Telegram atau email. Skenario seperti ini sangat bagus untuk pemula karena cukup mudah dipahami tetapi tetap memberi dampak nyata.",
+      "Salah satu kesalahan umum adalah terlalu cepat memakai node yang kompleks atau mencoba banyak cabang logika sekaligus. Akibatnya, workflow menjadi sulit dibaca dan sulit di-debug ketika terjadi masalah. Di tahap awal, lebih baik membangun alur sesederhana mungkin, lalu menambah kompleksitas hanya ketika benar-benar dibutuhkan.",
+      "Pemula juga perlu membiasakan diri dengan konsep data flow di n8n. Setiap node menerima input tertentu dan menghasilkan output yang dipakai node berikutnya. Memahami aliran data ini sangat penting karena banyak error di n8n sebenarnya bukan karena node rusak, tetapi karena format data tidak sesuai dengan yang diharapkan node selanjutnya.",
+      "Fitur seperti execution log dan manual run sangat membantu dalam proses belajar. Jangan hanya melihat workflow sebagai papan visual, tetapi gunakan tools debug yang tersedia untuk memahami apa yang sebenarnya terjadi di setiap langkah. Ini adalah kebiasaan yang sangat penting jika ingin membangun automation yang stabil.",
+      "Untuk bisnis, keunggulan n8n ada pada kemampuannya menghubungkan banyak layanan dan memberikan ruang untuk logic yang lebih fleksibel. Ketika kebutuhan mulai berkembang, n8n bisa dipakai untuk skenario yang lebih kaya seperti routing lead, approval flow, notifikasi berlapis, atau integrasi dengan API internal.",
+      "Namun semua kelebihan itu baru terasa kalau fondasinya benar. Artinya, dokumentasikan workflow, beri nama node yang jelas, dan jaga agar struktur alur tetap mudah dipahami. Workflow yang bagus bukan hanya yang berjalan hari ini, tetapi juga yang masih bisa dimengerti dua bulan lagi ketika perlu diperbaiki.",
+      "Pada akhirnya, workflow pertama di n8n seharusnya menjadi pengalaman yang memberi kepercayaan diri, bukan membuat frustrasi. Dengan memilih use case yang tepat, memahami aliran data, dan membangun alur sederhana lebih dulu, pemula akan jauh lebih cepat merasakan manfaat nyata dari automation."
+    ],
+    "tanggal": "4 Mei 2026"
+  },
+  {
     "judul": "Prompt Engineering untuk Bisnis: Cara Menulis Prompt yang Lebih Efektif",
     "slug": "prompt-engineering-untuk-bisnis-cara-menulis-prompt-yang-lebih-efektif",
     "ringkasan": "Prompt engineering bukan sekadar soal memberi instruksi ke AI, tetapi tentang menyusun konteks, tujuan, dan format output agar hasilnya benar-benar berguna untuk kebutuhan bisnis. Artikel ini membahas prinsip dasarnya, kesalahan umum, dan cara membuat prompt yang lebih konsisten menghasilkan output berkualitas.",

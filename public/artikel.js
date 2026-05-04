@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "n8n untuk Pemula: Membangun Workflow Pertama yang Benar-Benar Berguna",
+    "slug": "n8n-untuk-pemula-membangun-workflow-pertama-yang-benar-benar-berguna",
+    "ringkasan": "n8n menjadi salah satu tool automation yang semakin populer karena fleksibel dan cocok untuk banyak skenario bisnis. Artikel ini membahas cara pandang yang tepat untuk memulai, jenis workflow pertama yang realistis, serta kesalahan awal yang sering membuat pemula berhenti di tengah jalan.",
+    "gambar": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "4 Mei 2026",
+    "baca": "10 menit",
+    "link": "artikel/n8n-untuk-pemula-membangun-workflow-pertama-yang-benar-benar-berguna.html",
+    "featured": false
+  },
+  {
     "judul": "Prompt Engineering untuk Bisnis: Cara Menulis Prompt yang Lebih Efektif",
     "slug": "prompt-engineering-untuk-bisnis-cara-menulis-prompt-yang-lebih-efektif",
     "ringkasan": "Prompt engineering bukan sekadar soal memberi instruksi ke AI, tetapi tentang menyusun konteks, tujuan, dan format output agar hasilnya benar-benar berguna untuk kebutuhan bisnis. Artikel ini membahas prinsip dasarnya, kesalahan umum, dan cara membuat prompt yang lebih konsisten menghasilkan output berkualitas.",

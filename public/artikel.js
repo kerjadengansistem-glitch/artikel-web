@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Cara Bisnis Kecil Memulai AI Tanpa Harus Punya Tim Teknis Besar",
+    "slug": "cara-bisnis-kecil-memulai-ai-tanpa-harus-punya-tim-teknis-besar",
+    "ringkasan": "Banyak bisnis kecil tertarik memakai AI, tetapi khawatir karena tidak punya tim teknis, anggaran besar, atau infrastruktur rumit. Artikel ini membahas cara memulai AI secara realistis, use case yang paling masuk akal, serta prinsip agar implementasi AI tetap sederhana namun bernilai nyata.",
+    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "kategori": "AI Generatif",
+    "tag": "ai",
+    "tanggal": "5 Mei 2026",
+    "baca": "9 menit",
+    "link": "artikel/cara-bisnis-kecil-memulai-ai-tanpa-harus-punya-tim-teknis-besar.html",
+    "featured": false
+  },
+  {
     "judul": "n8n untuk Pemula: Membangun Workflow Pertama yang Benar-Benar Berguna",
     "slug": "n8n-untuk-pemula-membangun-workflow-pertama-yang-benar-benar-berguna",
     "ringkasan": "n8n menjadi salah satu tool automation yang semakin populer karena fleksibel dan cocok untuk banyak skenario bisnis. Artikel ini membahas cara pandang yang tepat untuk memulai, jenis workflow pertama yang realistis, serta kesalahan awal yang sering membuat pemula berhenti di tengah jalan.",

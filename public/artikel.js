@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Membangun Sistem Konten Harian dengan AI dan Automation",
+    "slug": "membangun-sistem-konten-harian-dengan-ai-dan-automation",
+    "ringkasan": "Membuat konten secara konsisten setiap hari menjadi tantangan besar bagi banyak bisnis dan creator. Artikel ini membahas bagaimana AI dan automation bisa dipakai untuk membangun sistem konten harian yang lebih stabil, mulai dari ide, drafting, produksi, hingga distribusi ke berbagai channel.",
+    "gambar": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "6 Mei 2026",
+    "baca": "10 menit",
+    "link": "artikel/membangun-sistem-konten-harian-dengan-ai-dan-automation.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Bisnis Kecil Memulai AI Tanpa Harus Punya Tim Teknis Besar",
     "slug": "cara-bisnis-kecil-memulai-ai-tanpa-harus-punya-tim-teknis-besar",
     "ringkasan": "Banyak bisnis kecil tertarik memakai AI, tetapi khawatir karena tidak punya tim teknis, anggaran besar, atau infrastruktur rumit. Artikel ini membahas cara memulai AI secara realistis, use case yang paling masuk akal, serta prinsip agar implementasi AI tetap sederhana namun bernilai nyata.",

@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "AI untuk Customer Support: Kapan Membantu, Kapan Harus Diserahkan ke Manusia",
+    "slug": "ai-untuk-customer-support-kapan-membantu-kapan-harus-diserahkan-ke-manusia",
+    "ringkasan": "AI dapat mempercepat customer support, tetapi tidak semua interaksi cocok ditangani sepenuhnya oleh mesin. Artikel ini membahas batas ideal penggunaan AI dalam layanan pelanggan, jenis percakapan yang cocok diotomasi, serta cara merancang handoff ke manusia agar pengalaman pelanggan tetap terjaga.",
+    "gambar": "https://images.unsplash.com/photo-1552664193-30f7bed4d13a?w=1200&q=80",
+    "kategori": "Chatbot AI",
+    "tag": "ai",
+    "tanggal": "7 Mei 2026",
+    "baca": "9 menit",
+    "link": "artikel/ai-untuk-customer-support-kapan-membantu-kapan-harus-diserahkan-ke-manusia.html",
+    "featured": false
+  },
+  {
     "judul": "Membangun Sistem Konten Harian dengan AI dan Automation",
     "slug": "membangun-sistem-konten-harian-dengan-ai-dan-automation",
     "ringkasan": "Membuat konten secara konsisten setiap hari menjadi tantangan besar bagi banyak bisnis dan creator. Artikel ini membahas bagaimana AI dan automation bisa dipakai untuk membangun sistem konten harian yang lebih stabil, mulai dari ide, drafting, produksi, hingga distribusi ke berbagai channel.",

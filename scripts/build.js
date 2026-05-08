@@ -56,8 +56,11 @@ const articleTemplate = ({ judul, slug, ringkasan, gambar, kategori, tanggal, ba
 <meta property="og:title" content="${escapeHtml(judul)}">
 <meta property="og:description" content="${escapeHtml(ringkasan)}">
 <meta property="og:url" content="${baseUrl}/artikel/${slug}.html">
-<meta property="og:image" content="${escapeHtml(gambar)}">
+<meta property="og:image" content="https://res.cloudinary.com/dilamvetq/image/upload/v1778264473/wtxuxpe3wqqrloaqf38a.jpg">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/jpeg" href="https://res.cloudinary.com/dilamvetq/image/upload/v1778264473/wtxuxpe3wqqrloaqf38a.jpg">
+<meta name="twitter:image" content="https://res.cloudinary.com/dilamvetq/image/upload/v1778264473/wtxuxpe3wqqrloaqf38a.jpg">
+<link rel="icon" type="image/jpeg" href="https://res.cloudinary.com/dilamvetq/image/upload/v1778264473/wtxuxpe3wqqrloaqf38a.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -67,7 +70,7 @@ const articleTemplate = ({ judul, slug, ringkasan, gambar, kategori, tanggal, ba
 </style>
 </head>
 <body>
-<nav><div class="c ni"><a href="/" class="logo"><span class="li">⚡</span><div class="lt"><span>KerjaDenganSistem</span><span>Artikel AI & Automation</span></div></a><a href="/" class="btn ghost">← Kembali ke Beranda</a></div></nav>
+<nav><div class="c ni"><a href="/" class="logo"><span class="li"><img src="https://res.cloudinary.com/dilamvetq/image/upload/v1778264473/wtxuxpe3wqqrloaqf38a.jpg" alt="Logo Kerja Dengan Sistem"></span><div class="lt"><span>KerjaDenganSistem</span><span>Artikel AI & Automation</span></div></a><a href="/" class="btn ghost">← Kembali ke Beranda</a></div></nav>
 <header><div class="c"><span class="crumb">${escapeHtml(kategori)}</span><h1>${escapeHtml(judul)}</h1><div class="meta"><span>📅 ${escapeHtml(tanggal)}</span><span>⏱️ ${escapeHtml(baca)}</span><span>🏷️ ${escapeHtml(kategori)}</span></div><p style="color:var(--t2);font-size:18px;max-width:760px">${escapeHtml(ringkasan)}</p><div class="heroimg"><img src="${escapeHtml(gambar)}" alt="${escapeHtml(judul)}"></div></div></header>
 <main class="c"><article>${konten.map((p) => `<p>${escapeHtml(p)}</p>`).join('')}<h2>Kenapa topik ini penting?</h2><p>Topik ini relevan karena perubahan teknologi bergerak sangat cepat. Dengan memahami dasar dan praktiknya, Anda bisa mengambil keputusan yang lebih tepat, baik untuk kebutuhan belajar, bisnis, maupun pengembangan sistem kerja yang lebih efisien.</p></article><div class="backgrid"><a class="card" href="/"><h3>Jelajahi artikel lainnya</h3><p>Kembali ke halaman utama untuk melihat artikel terbaru seputar AI dan automation.</p></a><a class="card" href="https://kerjadengansistem.web.id" target="_blank" rel="noopener"><h3>Kunjungi website utama</h3><p>Lihat ekosistem KerjaDenganSistem dan konten lain yang relevan.</p></a></div></main>
 <footer><div class="c">© 2026 KerjaDenganSistem — Konten edukatif seputar AI, automation, dan sistem kerja yang lebih cerdas.</div></footer>

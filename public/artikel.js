@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Cara Memilih Tool AI yang Tepat",
+    "slug": "cara-memilih-tool-ai-yang-tepat",
+    "ringkasan": "Banyak orang memakai AI dengan semangat tinggi, tetapi bingung memilih tool yang benar-benar cocok untuk pekerjaannya. Artikel ini membahas cara menilai tool AI berdasarkan kebutuhan, jenis tugas, kualitas output, privasi, dan kebiasaan kerja agar pemakaian AI tidak berhenti di tahap coba-coba.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "AI Generatif",
+    "tag": "ai",
+    "tanggal": "8 Mei 2026",
+    "baca": "9 menit",
+    "link": "artikel/cara-memilih-tool-ai-yang-tepat.html",
+    "featured": false
+  },
+  {
     "judul": "Lead Generation dengan Automation: Cara Merapikan Prospek Masuk Sejak Awal",
     "slug": "lead-generation-dengan-automation-cara-merapikan-prospek-masuk-sejak-awal",
     "ringkasan": "Lead generation sering gagal bukan karena traffic kurang, tetapi karena proses penanganan prospek tidak rapi sejak awal. Artikel ini membahas bagaimana automation membantu bisnis mengumpulkan, menyaring, dan menindaklanjuti lead secara lebih konsisten agar peluang konversi tidak hilang di tengah jalan.",

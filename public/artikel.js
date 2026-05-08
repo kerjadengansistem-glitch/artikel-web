@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Lead Generation dengan Automation: Cara Merapikan Prospek Masuk Sejak Awal",
+    "slug": "lead-generation-dengan-automation-cara-merapikan-prospek-masuk-sejak-awal",
+    "ringkasan": "Lead generation sering gagal bukan karena traffic kurang, tetapi karena proses penanganan prospek tidak rapi sejak awal. Artikel ini membahas bagaimana automation membantu bisnis mengumpulkan, menyaring, dan menindaklanjuti lead secara lebih konsisten agar peluang konversi tidak hilang di tengah jalan.",
+    "gambar": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "8 Mei 2026",
+    "baca": "10 menit",
+    "link": "artikel/lead-generation-dengan-automation-cara-merapikan-prospek-masuk-sejak-awal.html",
+    "featured": false
+  },
+  {
     "judul": "AI untuk Customer Support: Kapan Membantu, Kapan Harus Diserahkan ke Manusia",
     "slug": "ai-untuk-customer-support-kapan-membantu-kapan-harus-diserahkan-ke-manusia",
     "ringkasan": "AI dapat mempercepat customer support, tetapi tidak semua interaksi cocok ditangani sepenuhnya oleh mesin. Artikel ini membahas batas ideal penggunaan AI dalam layanan pelanggan, jenis percakapan yang cocok diotomasi, serta cara merancang handoff ke manusia agar pengalaman pelanggan tetap terjaga.",

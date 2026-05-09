@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Prompt, Workflow, dan Kebiasaan Kerja",
+    "slug": "prompt-workflow-dan-kebiasaan-kerja",
+    "ringkasan": "Banyak orang mencoba AI sekali dua kali lalu berhenti karena hasilnya terasa tidak stabil. Artikel ini membahas hubungan antara prompt, workflow, dan kebiasaan kerja agar penggunaan AI menjadi lebih konsisten, lebih berguna, dan tidak bergantung pada trial-and-error yang terus berulang.",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80",
+    "kategori": "AI Generatif",
+    "tag": "ai",
+    "tanggal": "9 Mei 2026",
+    "baca": "9 menit",
+    "link": "artikel/prompt-workflow-dan-kebiasaan-kerja.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Memilih Tool AI yang Tepat",
     "slug": "cara-memilih-tool-ai-yang-tepat",
     "ringkasan": "Banyak orang memakai AI dengan semangat tinggi, tetapi bingung memilih tool yang benar-benar cocok untuk pekerjaannya. Artikel ini membahas cara menilai tool AI berdasarkan kebutuhan, jenis tugas, kualitas output, privasi, dan kebiasaan kerja agar pemakaian AI tidak berhenti di tahap coba-coba.",

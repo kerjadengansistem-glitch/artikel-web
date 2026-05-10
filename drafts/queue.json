@@ -1,27 +1,5 @@
 [
   {
-    "judul": "Implementasi Agent di Proses Kerja",
-    "slug": "implementasi-agent-di-proses-kerja",
-    "ringkasan": "AI agent terdengar menarik, tetapi manfaatnya baru terasa ketika ditempatkan pada proses kerja yang tepat. Artikel ini membahas bagaimana agent dapat diimplementasikan dalam alur operasional, jenis tugas yang cocok, serta batasan yang perlu dijaga agar automation tetap aman dan berguna.",
-    "gambar": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
-    "kategori": "Automation",
-    "tag": "auto",
-    "baca": "10 menit",
-    "featured": false,
-    "konten": [
-      "Setelah memahami apa itu AI agent, pertanyaan berikutnya biasanya lebih praktis: sebenarnya agent ini dipakai di mana? Banyak orang membayangkan agent sebagai teknologi canggih yang bisa mengerjakan segalanya, padahal implementasi yang paling berguna justru biasanya dimulai dari proses kerja yang sempit, jelas, dan berulang.",
-      "Agent cocok dipakai ketika sebuah pekerjaan membutuhkan tiga hal sekaligus: ada tujuan yang cukup jelas, ada konteks yang bisa diberikan, dan ada serangkaian langkah yang bisa diulang dengan variasi tertentu. Contohnya adalah merangkum pesan masuk, mengklasifikasikan permintaan, menyiapkan draft balasan, mengambil data dari beberapa sumber, atau memantau kondisi tertentu lalu mengirim notifikasi.",
-      "Dalam implementasi nyata, agent jarang bekerja sendirian. Ia biasanya ditempatkan di tengah workflow yang juga melibatkan trigger, tools, database, dan kadang approval dari manusia. Dengan kata lain, agent bukan pengganti seluruh proses, tetapi komponen cerdas di dalam proses yang lebih besar. Ini penting agar ekspektasi tetap realistis dan desain sistem tidak berlebihan sejak awal.",
-      "Salah satu use case yang cukup kuat adalah personal assistant internal. Agent bisa membantu merangkum agenda, menyusun prioritas dari banyak pesan, atau menyiapkan jawaban awal untuk permintaan yang sering muncul. Dalam konteks tim, agent juga bisa berperan sebagai lapisan pertama untuk membaca input, memberi label, dan meneruskan tugas ke jalur yang paling relevan.",
-      "Di operasional bisnis, agent juga berguna untuk pekerjaan yang sebelumnya menuntut banyak perpindahan konteks. Misalnya, ada pesan pelanggan masuk, agent membaca intent-nya, mencari informasi yang diperlukan, lalu menyiapkan respons atau rekomendasi langkah berikutnya. Jika dirancang dengan baik, ini bisa mengurangi beban kerja manual tanpa harus menghilangkan kontrol manusia di titik penting.",
-      "Namun implementasi agent yang sehat selalu memperhatikan batasan. Tidak semua proses cocok diserahkan penuh ke agent, terutama jika menyangkut keputusan sensitif, transaksi penting, perubahan data besar, atau komunikasi yang risikonya tinggi. Pada kasus seperti ini, agent sebaiknya membantu menyiapkan konteks dan opsi, sementara keputusan final tetap berada di tangan manusia.",
-      "Aspek kualitas data dan instruksi juga sangat menentukan. Agent hanya bisa bekerja baik jika input yang diterima cukup jelas dan tools yang terhubung bisa diandalkan. Jika data sumber berantakan atau aturan kerja tidak tegas, agent mudah menghasilkan tindakan yang meleset. Karena itu, banyak proyek agent gagal bukan karena modelnya lemah, melainkan karena fondasi prosesnya belum rapi.",
-      "Cara terbaik memulai biasanya adalah dari satu use case kecil yang hasilnya mudah diamati. Pilih tugas yang sering terjadi, punya pola cukup stabil, dan jika berhasil akan langsung terasa manfaatnya. Setelah itu, ukur hasilnya: apakah waktu respon berkurang, apakah beban kerja tim menurun, apakah error lebih mudah dilacak, dan apakah pengguna merasa proses lebih ringan.",
-      "Seiring sistem berkembang, agent bisa menjadi bagian penting dari arsitektur kerja digital. Ia dapat membantu tim fokus pada keputusan dan pengecualian, sementara tugas-tugas awal yang repetitif ditangani lebih cepat oleh sistem. Tetapi nilai terbesarnya tetap muncul saat implementasi dilakukan bertahap, bukan dengan ambisi terlalu besar sejak awal.",
-      "Pada akhirnya, implementasi agent yang baik bukan soal membuat sistem yang terlihat paling canggih, tetapi tentang menempatkan kecerdasan di titik proses yang memang membutuhkan bantuan. Ketika konteks, batasan, dan alur kerja disusun dengan benar, agent bisa menjadi alat yang sangat berguna untuk mempercepat proses tanpa kehilangan arah dan kontrol."
-    ]
-  },
-  {
     "judul": "Rekomendasi AI untuk Konten, Riset, dan Ide Awal",
     "slug": "rekomendasi-ai-untuk-konten-riset-dan-ide-awal",
     "ringkasan": "Rekomendasi AI untuk membuat konten, riset, ringkasan, dan ide awal.",

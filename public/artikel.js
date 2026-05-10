@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Implementasi Agent di Proses Kerja",
+    "slug": "implementasi-agent-di-proses-kerja",
+    "ringkasan": "AI agent terdengar menarik, tetapi manfaatnya baru terasa ketika ditempatkan pada proses kerja yang tepat. Artikel ini membahas bagaimana agent dapat diimplementasikan dalam alur operasional, jenis tugas yang cocok, serta batasan yang perlu dijaga agar automation tetap aman dan berguna.",
+    "gambar": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "10 Mei 2026",
+    "baca": "10 menit",
+    "link": "artikel/implementasi-agent-di-proses-kerja.html",
+    "featured": false
+  },
+  {
     "judul": "Prompt, Workflow, dan Kebiasaan Kerja",
     "slug": "prompt-workflow-dan-kebiasaan-kerja",
     "ringkasan": "Banyak orang mencoba AI sekali dua kali lalu berhenti karena hasilnya terasa tidak stabil. Artikel ini membahas hubungan antara prompt, workflow, dan kebiasaan kerja agar penggunaan AI menjadi lebih konsisten, lebih berguna, dan tidak bergantung pada trial-and-error yang terus berulang.",

@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Rekomendasi AI untuk Konten, Riset, dan Ide Awal",
+    "slug": "rekomendasi-ai-untuk-konten-riset-dan-ide-awal",
+    "ringkasan": "Rekomendasi AI untuk membuat konten, riset, ringkasan, dan ide awal.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "11 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/rekomendasi-ai-untuk-konten-riset-dan-ide-awal.html",
+    "featured": false
+  },
+  {
     "judul": "Implementasi Agent di Proses Kerja",
     "slug": "implementasi-agent-di-proses-kerja",
     "ringkasan": "AI agent terdengar menarik, tetapi manfaatnya baru terasa ketika ditempatkan pada proses kerja yang tepat. Artikel ini membahas bagaimana agent dapat diimplementasikan dalam alur operasional, jenis tugas yang cocok, serta batasan yang perlu dijaga agar automation tetap aman dan berguna.",

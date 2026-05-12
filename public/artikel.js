@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Perbedaan Tool AI dalam Kecepatan, Akurasi, dan Gaya Jawaban",
+    "slug": "perbedaan-tool-ai-dalam-kecepatan-akurasi-dan-gaya-jawaban",
+    "ringkasan": "Perbedaan AI A dan AI B dalam hal kecepatan, akurasi, dan gaya jawaban.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "12 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/perbedaan-tool-ai-dalam-kecepatan-akurasi-dan-gaya-jawaban.html",
+    "featured": false
+  },
+  {
     "judul": "Rekomendasi AI untuk Konten, Riset, dan Ide Awal",
     "slug": "rekomendasi-ai-untuk-konten-riset-dan-ide-awal",
     "ringkasan": "Rekomendasi AI untuk membuat konten, riset, ringkasan, dan ide awal.",

@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Kapan AI Cocok untuk Kerja Harian dan Kapan Tetap Perlu Cek Manual",
+    "slug": "kapan-ai-cocok-untuk-kerja-harian-dan-kapan-tetap-perlu-cek-manual",
+    "ringkasan": "Kapan AI cocok dipakai untuk kerja harian, dan kapan tetap perlu pengecekan manual.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "13 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/kapan-ai-cocok-untuk-kerja-harian-dan-kapan-tetap-perlu-cek-manual.html",
+    "featured": false
+  },
+  {
     "judul": "Perbedaan Tool AI dalam Kecepatan, Akurasi, dan Gaya Jawaban",
     "slug": "perbedaan-tool-ai-dalam-kecepatan-akurasi-dan-gaya-jawaban",
     "ringkasan": "Perbedaan AI A dan AI B dalam hal kecepatan, akurasi, dan gaya jawaban.",

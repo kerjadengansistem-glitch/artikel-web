@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Cara Memakai AI untuk Email, Laporan, Caption, dan Presentasi",
+    "slug": "cara-memakai-ai-untuk-email-laporan-caption-dan-presentasi",
+    "ringkasan": "Cara memakai AI untuk bantu menulis email, laporan, caption, dan materi presentasi.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "14 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/cara-memakai-ai-untuk-email-laporan-caption-dan-presentasi.html",
+    "featured": false
+  },
+  {
     "judul": "Kapan AI Cocok untuk Kerja Harian dan Kapan Tetap Perlu Cek Manual",
     "slug": "kapan-ai-cocok-untuk-kerja-harian-dan-kapan-tetap-perlu-cek-manual",
     "ringkasan": "Kapan AI cocok dipakai untuk kerja harian, dan kapan tetap perlu pengecekan manual.",

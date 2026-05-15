@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Langkah Belajar AI untuk Pemula agar Tidak Bingung",
+    "slug": "langkah-belajar-ai-untuk-pemula-agar-tidak-bingung",
+    "ringkasan": "Langkah belajar AI untuk pemula agar tidak bingung dan tidak lompat-lompat topik.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "15 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/langkah-belajar-ai-untuk-pemula-agar-tidak-bingung.html",
+    "featured": false
+  },
+  {
     "judul": "Privasi dan Keamanan Data Saat Menggunakan AI",
     "slug": "privasi-dan-keamanan-data-saat-menggunakan-ai",
     "ringkasan": "Privasi, keamanan data, dan hal-hal yang tidak sebaiknya langsung diberikan ke AI.",

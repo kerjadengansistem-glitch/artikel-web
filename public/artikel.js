@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Privasi dan Keamanan Data Saat Menggunakan AI",
+    "slug": "privasi-dan-keamanan-data-saat-menggunakan-ai",
+    "ringkasan": "Privasi, keamanan data, dan hal-hal yang tidak sebaiknya langsung diberikan ke AI.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "15 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/privasi-dan-keamanan-data-saat-menggunakan-ai.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Memakai AI untuk Email, Laporan, Caption, dan Presentasi",
     "slug": "cara-memakai-ai-untuk-email-laporan-caption-dan-presentasi",
     "ringkasan": "Cara memakai AI untuk bantu menulis email, laporan, caption, dan materi presentasi.",

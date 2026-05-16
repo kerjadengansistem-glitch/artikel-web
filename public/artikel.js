@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Apa Bedanya OpenClaw dengan Chatbot AI Biasa",
+    "slug": "apa-bedanya-openclaw-dengan-chatbot-ai-biasa",
+    "ringkasan": "Apa bedanya OpenClaw dengan chatbot AI biasa.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "OpenClaw",
+    "tag": "openclaw",
+    "tanggal": "16 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/apa-bedanya-openclaw-dengan-chatbot-ai-biasa.html",
+    "featured": false
+  },
+  {
     "judul": "Langkah Belajar AI untuk Pemula agar Tidak Bingung",
     "slug": "langkah-belajar-ai-untuk-pemula-agar-tidak-bingung",
     "ringkasan": "Langkah belajar AI untuk pemula agar tidak bingung dan tidak lompat-lompat topik.",

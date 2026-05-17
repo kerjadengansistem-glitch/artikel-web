@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Cara Install OpenClaw dan Kebutuhan Dasarnya",
+    "slug": "cara-install-openclaw-dan-kebutuhan-dasarnya",
+    "ringkasan": "Cara install OpenClaw dan kebutuhan dasar yang perlu disiapkan.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "OpenClaw",
+    "tag": "openclaw",
+    "tanggal": "17 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/cara-install-openclaw-dan-kebutuhan-dasarnya.html",
+    "featured": false
+  },
+  {
     "judul": "Apa Bedanya OpenClaw dengan Chatbot AI Biasa",
     "slug": "apa-bedanya-openclaw-dengan-chatbot-ai-biasa",
     "ringkasan": "Apa bedanya OpenClaw dengan chatbot AI biasa.",

@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Cara Menghubungkan OpenClaw dengan Telegram atau Web",
+    "slug": "cara-menghubungkan-openclaw-dengan-telegram-atau-web",
+    "ringkasan": "Cara menghubungkan OpenClaw dengan channel komunikasi seperti Telegram atau web.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "OpenClaw",
+    "tag": "openclaw",
+    "tanggal": "19 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/cara-menghubungkan-openclaw-dengan-telegram-atau-web.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Install OpenClaw dan Kebutuhan Dasarnya",
     "slug": "cara-install-openclaw-dan-kebutuhan-dasarnya",
     "ringkasan": "Cara install OpenClaw dan kebutuhan dasar yang perlu disiapkan.",

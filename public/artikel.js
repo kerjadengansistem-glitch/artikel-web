@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Fungsi Tools, Memory, dan Session di OpenClaw",
+    "slug": "fungsi-tools-memory-dan-session-di-openclaw",
+    "ringkasan": "Fungsi tools, memory, dan session dalam cara kerja OpenClaw.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "OpenClaw",
+    "tag": "openclaw",
+    "tanggal": "20 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/fungsi-tools-memory-dan-session-di-openclaw.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Menghubungkan OpenClaw dengan Telegram atau Web",
     "slug": "cara-menghubungkan-openclaw-dengan-telegram-atau-web",
     "ringkasan": "Cara menghubungkan OpenClaw dengan channel komunikasi seperti Telegram atau web.",

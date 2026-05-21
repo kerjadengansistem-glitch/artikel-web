@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Use Case OpenClaw untuk Assistant, Monitoring, dan Automasi Kerja",
+    "slug": "use-case-openclaw-untuk-assistant-monitoring-dan-automasi-kerja",
+    "ringkasan": "Use case OpenClaw untuk personal assistant, monitoring, dan automasi kerja digital.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "OpenClaw",
+    "tag": "openclaw",
+    "tanggal": "21 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/use-case-openclaw-untuk-assistant-monitoring-dan-automasi-kerja.html",
+    "featured": false
+  },
+  {
     "judul": "Fungsi Tools, Memory, dan Session di OpenClaw",
     "slug": "fungsi-tools-memory-dan-session-di-openclaw",
     "ringkasan": "Fungsi tools, memory, dan session dalam cara kerja OpenClaw.",

@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Cara Memberi Instruksi yang Jelas agar Agent Bekerja Lebih Tepat",
+    "slug": "cara-memberi-instruksi-yang-jelas-agar-agent-bekerja-lebih-tepat",
+    "ringkasan": "Cara memberi instruksi yang jelas agar agent bekerja lebih tepat.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "22 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/cara-memberi-instruksi-yang-jelas-agar-agent-bekerja-lebih-tepat.html",
+    "featured": false
+  },
+  {
     "judul": "Use Case OpenClaw untuk Assistant, Monitoring, dan Automasi Kerja",
     "slug": "use-case-openclaw-untuk-assistant-monitoring-dan-automasi-kerja",
     "ringkasan": "Use case OpenClaw untuk personal assistant, monitoring, dan automasi kerja digital.",

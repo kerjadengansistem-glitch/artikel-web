@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Batas Aman Agent dan Kapan Tetap Perlu Persetujuan Manusia",
+    "slug": "batas-aman-agent-dan-kapan-tetap-perlu-persetujuan-manusia",
+    "ringkasan": "Hal-hal yang aman dilakukan agent dan kapan tetap perlu persetujuan manusia.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "24 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/batas-aman-agent-dan-kapan-tetap-perlu-persetujuan-manusia.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Menyimpan Konteks dan Membangun Kebiasaan Kerja Agent",
     "slug": "cara-menyimpan-konteks-dan-membangun-kebiasaan-kerja-agent",
     "ringkasan": "Cara menyimpan konteks dan membangun kebiasaan kerja agent yang konsisten.",

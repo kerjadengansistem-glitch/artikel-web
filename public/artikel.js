@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Contoh Alur Sederhana Agent dari Permintaan sampai Hasil",
+    "slug": "contoh-alur-sederhana-agent-dari-permintaan-sampai-hasil",
+    "ringkasan": "Contoh alur sederhana: agent menerima permintaan, memprosesnya, lalu mengirim hasil.",
+    "gambar": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+    "kategori": "AI Education",
+    "tag": "ai",
+    "tanggal": "25 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/contoh-alur-sederhana-agent-dari-permintaan-sampai-hasil.html",
+    "featured": false
+  },
+  {
     "judul": "Batas Aman Agent dan Kapan Tetap Perlu Persetujuan Manusia",
     "slug": "batas-aman-agent-dan-kapan-tetap-perlu-persetujuan-manusia",
     "ringkasan": "Hal-hal yang aman dilakukan agent dan kapan tetap perlu persetujuan manusia.",

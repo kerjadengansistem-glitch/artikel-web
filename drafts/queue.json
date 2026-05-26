@@ -1,25 +1,5 @@
 [
   {
-    "judul": "Cara Install n8n dan Memilih Cloud atau Self-Hosted",
-    "slug": "cara-install-n8n-dan-memilih-cloud-atau-self-hosted",
-    "ringkasan": "Cara install n8n dan pilihan memakai cloud atau self-hosted.",
-    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
-    "kategori": "n8n",
-    "tag": "n8n",
-    "baca": "8 menit",
-    "featured": false,
-    "konten": [
-      "Cara Install n8n dan Memilih Cloud atau Self-Hosted adalah topik penting di jalur belajar n8n karena membantu pembaca naik satu tingkat dari sekadar tahu istilah menjadi lebih paham konteks dan penerapannya. Cara install n8n dan pilihan memakai cloud atau self-hosted.",
-      "Banyak pemula berhenti terlalu cepat karena merasa konsep yang mereka pelajari masih terpisah-pisah. Materi seperti ini berguna untuk menyambungkan pemahaman dasar dengan situasi kerja yang lebih nyata, sehingga proses belajar terasa lebih runtut dan tidak loncat-loncat.",
-      "Pendekatan yang sehat selalu dimulai dari fungsi praktis. Sebelum membahas teknik yang lebih rumit, pembaca perlu tahu masalah apa yang sebenarnya ingin dibantu, kapan sebuah tool atau pendekatan layak dipakai, dan bagaimana menilai apakah hasilnya cukup membantu untuk pekerjaan sehari-hari.",
-      "Dalam konteks bisnis atau kerja operasional, pemahaman dasar sering justru memberi dampak paling besar. Ketika seseorang tahu konsep inti, ia bisa mengambil keputusan yang lebih tenang, lebih kritis saat mencoba tool baru, dan tidak mudah ikut tren tanpa arah yang jelas.",
-      "Materi ini juga penting karena banyak kesalahan muncul bukan akibat teknologinya terlalu sulit, melainkan karena ekspektasi, urutan belajar, atau cara pakainya belum tepat. Dengan pondasi yang benar, langkah lanjutan akan terasa jauh lebih mudah diikuti.",
-      "Setelah memahami topik ini, pembaca seharusnya lebih siap melihat hubungan antara teori, contoh penggunaan, dan kebiasaan kerja yang lebih konsisten. Dari situ, proses belajar bisa berkembang menjadi praktik yang benar-benar berguna, bukan hanya pengetahuan yang cepat lupa.",
-      "Yang paling penting, topik seperti ini sebaiknya tidak dibaca sebagai pengetahuan terpisah. Ia lebih kuat jika dipakai sebagai bagian dari jalur belajar: pahami konsepnya, lihat contohnya, lalu coba hubungkan dengan kebutuhan kerja yang paling dekat dengan rutinitas sendiri.",
-      "Dengan cara itu, materi tidak berhenti sebagai artikel yang dibaca sekali, tetapi menjadi pijakan untuk langkah berikutnya. Itulah tujuan utama section belajar: membuat proses memahami AI, OpenClaw, dan n8n terasa lebih terarah, lebih praktis, dan lebih mudah diteruskan dari hari ke hari."
-    ]
-  },
-  {
     "judul": "Apa Itu Workflow, Node, Trigger, dan Execution di n8n",
     "slug": "apa-itu-workflow-node-trigger-dan-execution-di-n8n",
     "ringkasan": "Apa itu workflow, node, trigger, dan execution di n8n.",

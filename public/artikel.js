@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Apa Itu Workflow, Node, Trigger, dan Execution di n8n",
+    "slug": "apa-itu-workflow-node-trigger-dan-execution-di-n8n",
+    "ringkasan": "Apa itu workflow, node, trigger, dan execution di n8n.",
+    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "kategori": "n8n",
+    "tag": "n8n",
+    "tanggal": "27 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/apa-itu-workflow-node-trigger-dan-execution-di-n8n.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Install n8n dan Memilih Cloud atau Self-Hosted",
     "slug": "cara-install-n8n-dan-memilih-cloud-atau-self-hosted",
     "ringkasan": "Cara install n8n dan pilihan memakai cloud atau self-hosted.",

@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Fitur Dasar n8n dan Fungsi Bagian Utamanya",
+    "slug": "fitur-dasar-n8n-dan-fungsi-bagian-utamanya",
+    "ringkasan": "Fitur dasar yang ada di n8n dan fungsi masing-masing bagian utamanya.",
+    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "kategori": "n8n",
+    "tag": "n8n",
+    "tanggal": "28 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/fitur-dasar-n8n-dan-fungsi-bagian-utamanya.html",
+    "featured": false
+  },
+  {
     "judul": "Apa Itu Workflow, Node, Trigger, dan Execution di n8n",
     "slug": "apa-itu-workflow-node-trigger-dan-execution-di-n8n",
     "ringkasan": "Apa itu workflow, node, trigger, dan execution di n8n.",

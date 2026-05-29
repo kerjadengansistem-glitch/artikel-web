@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Use Case n8n untuk Operasional, Konten, dan Administrasi",
+    "slug": "use-case-n8n-untuk-operasional-konten-dan-administrasi",
+    "ringkasan": "n8n bisa dipakai untuk apa saja dalam operasional bisnis, konten, dan administrasi.",
+    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "kategori": "n8n",
+    "tag": "n8n",
+    "tanggal": "29 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/use-case-n8n-untuk-operasional-konten-dan-administrasi.html",
+    "featured": false
+  },
+  {
     "judul": "Fitur Dasar n8n dan Fungsi Bagian Utamanya",
     "slug": "fitur-dasar-n8n-dan-fungsi-bagian-utamanya",
     "ringkasan": "Fitur dasar yang ada di n8n dan fungsi masing-masing bagian utamanya.",

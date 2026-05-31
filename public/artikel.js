@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Cara Membaca Data Masuk dan Mengolahnya di n8n",
+    "slug": "cara-membaca-data-masuk-dan-mengolahnya-di-n8n",
+    "ringkasan": "Cara membaca data masuk dan mengolahnya sebelum dikirim ke langkah berikutnya.",
+    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "kategori": "n8n",
+    "tag": "n8n",
+    "tanggal": "31 Mei 2026",
+    "baca": "8 menit",
+    "link": "artikel/cara-membaca-data-masuk-dan-mengolahnya-di-n8n.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Menghubungkan n8n dengan Google Sheets, WhatsApp, Email, dan API",
     "slug": "cara-menghubungkan-n8n-dengan-google-sheets-whatsapp-email-dan-api",
     "ringkasan": "Cara menghubungkan n8n dengan Google Sheets, WhatsApp, email, dan API.",

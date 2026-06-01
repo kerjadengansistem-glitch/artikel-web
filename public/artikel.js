@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Perbedaan Automation Sederhana, Multi-Step Workflow, dan AI Workflow di n8n",
+    "slug": "perbedaan-automation-sederhana-multi-step-workflow-dan-ai-workflow-di-n8n",
+    "ringkasan": "Perbedaan automation sederhana, multi-step workflow, dan workflow berbasis AI di n8n.",
+    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "kategori": "n8n",
+    "tag": "n8n",
+    "tanggal": "1 Juni 2026",
+    "baca": "8 menit",
+    "link": "artikel/perbedaan-automation-sederhana-multi-step-workflow-dan-ai-workflow-di-n8n.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Membaca Data Masuk dan Mengolahnya di n8n",
     "slug": "cara-membaca-data-masuk-dan-mengolahnya-di-n8n",
     "ringkasan": "Cara membaca data masuk dan mengolahnya sebelum dikirim ke langkah berikutnya.",

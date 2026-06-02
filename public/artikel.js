@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Kesalahan Umum Pemula saat Membuat Workflow n8n",
+    "slug": "kesalahan-umum-pemula-saat-membuat-workflow-n8n",
+    "ringkasan": "Kesalahan umum pemula saat membuat workflow dan cara debugging yang lebih mudah.",
+    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "kategori": "n8n",
+    "tag": "n8n",
+    "tanggal": "2 Juni 2026",
+    "baca": "8 menit",
+    "link": "artikel/kesalahan-umum-pemula-saat-membuat-workflow-n8n.html",
+    "featured": false
+  },
+  {
     "judul": "Perbedaan Automation Sederhana, Multi-Step Workflow, dan AI Workflow di n8n",
     "slug": "perbedaan-automation-sederhana-multi-step-workflow-dan-ai-workflow-di-n8n",
     "ringkasan": "Perbedaan automation sederhana, multi-step workflow, dan workflow berbasis AI di n8n.",

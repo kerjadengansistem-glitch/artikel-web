@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Contoh Use Case Dasar n8n untuk Rekap, Notifikasi, dan Sinkronisasi",
+    "slug": "contoh-use-case-dasar-n8n-untuk-rekap-notifikasi-dan-sinkronisasi",
+    "ringkasan": "Contoh use case dasar n8n untuk rekap data, notifikasi otomatis, dan sinkronisasi proses kerja.",
+    "gambar": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "kategori": "n8n",
+    "tag": "n8n",
+    "tanggal": "3 Juni 2026",
+    "baca": "9 menit",
+    "link": "artikel/contoh-use-case-dasar-n8n-untuk-rekap-notifikasi-dan-sinkronisasi.html",
+    "featured": false
+  },
+  {
     "judul": "Kesalahan Umum Pemula saat Membuat Workflow n8n",
     "slug": "kesalahan-umum-pemula-saat-membuat-workflow-n8n",
     "ringkasan": "Kesalahan umum pemula saat membuat workflow dan cara debugging yang lebih mudah.",

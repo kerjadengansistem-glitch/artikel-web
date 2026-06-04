@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Workflow Approval Otomatis: Cara Mempercepat Proses Tanpa Kehilangan Kontrol",
+    "slug": "workflow-approval-otomatis-cara-mempercepat-proses-tanpa-kehilangan-kontrol",
+    "ringkasan": "Banyak proses bisnis melambat karena approval berjalan lewat chat, ingatan, atau dokumen yang tercecer. Artikel ini membahas bagaimana workflow approval otomatis membantu mempercepat proses sambil tetap menjaga kontrol, akuntabilitas, dan visibilitas keputusan di dalam tim.",
+    "gambar": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "4 Juni 2026",
+    "baca": "9 menit",
+    "link": "artikel/workflow-approval-otomatis-cara-mempercepat-proses-tanpa-kehilangan-kontrol.html",
+    "featured": false
+  },
+  {
     "judul": "Contoh Use Case Dasar n8n untuk Rekap, Notifikasi, dan Sinkronisasi",
     "slug": "contoh-use-case-dasar-n8n-untuk-rekap-notifikasi-dan-sinkronisasi",
     "ringkasan": "Contoh use case dasar n8n untuk rekap data, notifikasi otomatis, dan sinkronisasi proses kerja.",

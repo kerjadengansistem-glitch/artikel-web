@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Menghubungkan WhatsApp, Form, dan CRM dengan Automation yang Sederhana",
+    "slug": "menghubungkan-whatsapp-form-dan-crm-dengan-automation-yang-sederhana",
+    "ringkasan": "Banyak bisnis menerima prospek dari berbagai channel, tetapi datanya sering tersebar dan tindak lanjutnya tidak konsisten. Artikel ini membahas cara sederhana menghubungkan WhatsApp, form, dan CRM dengan automation agar alur penanganan lead menjadi lebih rapi dan respons tim lebih cepat.",
+    "gambar": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "5 Juni 2026",
+    "baca": "10 menit",
+    "link": "artikel/menghubungkan-whatsapp-form-dan-crm-dengan-automation-yang-sederhana.html",
+    "featured": false
+  },
+  {
     "judul": "Workflow Approval Otomatis: Cara Mempercepat Proses Tanpa Kehilangan Kontrol",
     "slug": "workflow-approval-otomatis-cara-mempercepat-proses-tanpa-kehilangan-kontrol",
     "ringkasan": "Banyak proses bisnis melambat karena approval berjalan lewat chat, ingatan, atau dokumen yang tercecer. Artikel ini membahas bagaimana workflow approval otomatis membantu mempercepat proses sambil tetap menjaga kontrol, akuntabilitas, dan visibilitas keputusan di dalam tim.",

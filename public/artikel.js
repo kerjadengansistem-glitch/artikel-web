@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "AI untuk Riset Konten: Cara Menemukan Angle Artikel yang Lebih Tajam",
+    "slug": "ai-untuk-riset-konten-cara-menemukan-angle-artikel-yang-lebih-tajam",
+    "ringkasan": "Riset konten sering memakan waktu karena tim harus memilah terlalu banyak ide tanpa arah yang jelas. Artikel ini membahas bagaimana AI dapat membantu proses riset konten, menemukan angle yang lebih kuat, dan mempercepat tahap awal penulisan tanpa membuat hasil akhir terasa generik.",
+    "gambar": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+    "kategori": "AI Generatif",
+    "tag": "ai",
+    "tanggal": "6 Juni 2026",
+    "baca": "9 menit",
+    "link": "artikel/ai-untuk-riset-konten-cara-menemukan-angle-artikel-yang-lebih-tajam.html",
+    "featured": false
+  },
+  {
     "judul": "Menghubungkan WhatsApp, Form, dan CRM dengan Automation yang Sederhana",
     "slug": "menghubungkan-whatsapp-form-dan-crm-dengan-automation-yang-sederhana",
     "ringkasan": "Banyak bisnis menerima prospek dari berbagai channel, tetapi datanya sering tersebar dan tindak lanjutnya tidak konsisten. Artikel ini membahas cara sederhana menghubungkan WhatsApp, form, dan CRM dengan automation agar alur penanganan lead menjadi lebih rapi dan respons tim lebih cepat.",

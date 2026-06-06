@@ -1,27 +1,5 @@
 [
   {
-    "judul": "AI untuk Riset Konten: Cara Menemukan Angle Artikel yang Lebih Tajam",
-    "slug": "ai-untuk-riset-konten-cara-menemukan-angle-artikel-yang-lebih-tajam",
-    "ringkasan": "Riset konten sering memakan waktu karena tim harus memilah terlalu banyak ide tanpa arah yang jelas. Artikel ini membahas bagaimana AI dapat membantu proses riset konten, menemukan angle yang lebih kuat, dan mempercepat tahap awal penulisan tanpa membuat hasil akhir terasa generik.",
-    "gambar": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
-    "kategori": "AI Generatif",
-    "tag": "ai",
-    "baca": "9 menit",
-    "featured": false,
-    "konten": [
-      "Salah satu hambatan terbesar dalam produksi konten bukan selalu soal menulis, melainkan menemukan angle yang tepat sebelum menulis dimulai. Banyak topik terlihat menarik di permukaan, tetapi ketika dikembangkan justru terasa terlalu umum, terlalu lebar, atau tidak cukup relevan untuk audiens yang dituju. Di titik inilah AI bisa membantu proses riset konten menjadi lebih cepat dan lebih terarah.",
-      "AI berguna bukan karena ia otomatis tahu angle terbaik, tetapi karena ia dapat membantu memetakan kemungkinan. Dengan prompt yang tepat, AI bisa membantu mengurai topik besar menjadi beberapa sudut pandang yang lebih spesifik, membandingkan pendekatan untuk audiens berbeda, atau mengidentifikasi pertanyaan yang paling mungkin dicari pembaca.",
-      "Misalnya, topik tentang automation dapat dibelah menjadi angle untuk pemula, angle untuk bisnis kecil, angle untuk efisiensi tim, atau angle untuk integrasi tool tertentu. Tanpa bantuan struktur seperti ini, tim konten sering berhenti di level ide mentah dan kesulitan memutuskan artikel mana yang paling layak diprioritaskan.",
-      "Yang penting, AI tidak boleh dipakai sebagai pengganti nalar editorial. Ia sebaiknya diposisikan sebagai partner brainstorming yang mempercepat eksplorasi awal. Keputusan akhir tetap perlu datang dari pemahaman tentang audiens, positioning brand, momentum topik, dan tujuan konten itu sendiri.",
-      "AI juga dapat membantu membangun daftar pertanyaan turunan yang berguna untuk memperdalam artikel. Ini penting karena artikel yang terasa kuat biasanya tidak berhenti di definisi dasar, tetapi masuk ke implikasi, kesalahan umum, studi kasus, atau langkah praktis yang benar-benar menjawab kebutuhan pembaca.",
-      "Namun ada jebakan yang perlu diwaspadai. Jika tim hanya menyalin output AI mentah untuk dijadikan outline, hasil konten sering terasa generik dan terlalu mirip dengan banyak artikel lain di internet. Karena itu, hasil dari AI perlu dipilih, dipotong, dan dipertajam kembali agar sesuai dengan sudut pandang yang ingin dibangun brand.",
-      "Dalam alur kerja yang sehat, AI dapat dipakai untuk membantu tiga tahap awal: menemukan subtopik, menyusun calon outline, dan menyiapkan daftar pertanyaan riset tambahan. Setelah itu, editor atau penulis perlu masuk untuk menentukan prioritas dan membentuk narasi yang lebih tajam.",
-      "Untuk bisnis atau media kecil, pendekatan ini sangat membantu karena mengurangi waktu blank page syndrome. Tim tidak lagi memulai dari ruang kosong, tetapi dari bahan eksplorasi yang sudah cukup kaya untuk diolah lebih lanjut. Ini mempercepat produksi tanpa harus mengorbankan kualitas editorial jika proses review tetap dijaga.",
-      "Semakin jelas audiens dan tujuan konten, semakin berguna pula AI dalam proses riset. Prompt yang baik akan membantu model menghasilkan masukan yang lebih fokus, bukan sekadar daftar ide umum yang dangkal. Karena itu, kualitas briefing tetap menjadi faktor penentu meski AI sudah dipakai.",
-      "Pada akhirnya, AI untuk riset konten paling bernilai ketika ia membantu tim berpikir lebih cepat, bukan berpikir seadanya. Dengan kombinasi prompt yang baik dan penilaian editorial yang tajam, AI bisa menjadi alat yang kuat untuk menemukan angle artikel yang lebih relevan dan lebih kompetitif."
-    ]
-  },
-  {
     "judul": "Membangun Knowledge Base yang Siap Dipakai Chatbot AI",
     "slug": "membangun-knowledge-base-yang-siap-dipakai-chatbot-ai",
     "ringkasan": "Chatbot AI tidak akan konsisten jika sumber informasi di belakangnya berantakan. Artikel ini membahas bagaimana membangun knowledge base yang rapi, relevan, dan siap dipakai chatbot agar jawaban yang dihasilkan lebih akurat, lebih stabil, dan lebih berguna bagi pengguna.",

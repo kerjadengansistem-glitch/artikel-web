@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Membangun Knowledge Base yang Siap Dipakai Chatbot AI",
+    "slug": "membangun-knowledge-base-yang-siap-dipakai-chatbot-ai",
+    "ringkasan": "Chatbot AI tidak akan konsisten jika sumber informasi di belakangnya berantakan. Artikel ini membahas bagaimana membangun knowledge base yang rapi, relevan, dan siap dipakai chatbot agar jawaban yang dihasilkan lebih akurat, lebih stabil, dan lebih berguna bagi pengguna.",
+    "gambar": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&q=80",
+    "kategori": "Chatbot AI",
+    "tag": "ai",
+    "tanggal": "7 Juni 2026",
+    "baca": "10 menit",
+    "link": "artikel/membangun-knowledge-base-yang-siap-dipakai-chatbot-ai.html",
+    "featured": false
+  },
+  {
     "judul": "AI untuk Riset Konten: Cara Menemukan Angle Artikel yang Lebih Tajam",
     "slug": "ai-untuk-riset-konten-cara-menemukan-angle-artikel-yang-lebih-tajam",
     "ringkasan": "Riset konten sering memakan waktu karena tim harus memilah terlalu banyak ide tanpa arah yang jelas. Artikel ini membahas bagaimana AI dapat membantu proses riset konten, menemukan angle yang lebih kuat, dan mempercepat tahap awal penulisan tanpa membuat hasil akhir terasa generik.",

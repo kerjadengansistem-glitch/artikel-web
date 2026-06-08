@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Dashboard Operasional yang Berguna: Data Apa Saja yang Sebaiknya Ditampilkan?",
+    "slug": "dashboard-operasional-yang-berguna-data-apa-saja-yang-sebaiknya-ditampilkan",
+    "ringkasan": "Banyak dashboard terlihat ramai tetapi tidak benar-benar membantu pengambilan keputusan. Artikel ini membahas prinsip membuat dashboard operasional yang berguna, jenis data yang layak ditampilkan, dan cara memastikan dashboard menjadi alat kerja, bukan sekadar pajangan visual.",
+    "gambar": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
+    "kategori": "Data Science",
+    "tag": "data",
+    "tanggal": "8 Juni 2026",
+    "baca": "9 menit",
+    "link": "artikel/dashboard-operasional-yang-berguna-data-apa-saja-yang-sebaiknya-ditampilkan.html",
+    "featured": false
+  },
+  {
     "judul": "Membangun Knowledge Base yang Siap Dipakai Chatbot AI",
     "slug": "membangun-knowledge-base-yang-siap-dipakai-chatbot-ai",
     "ringkasan": "Chatbot AI tidak akan konsisten jika sumber informasi di belakangnya berantakan. Artikel ini membahas bagaimana membangun knowledge base yang rapi, relevan, dan siap dipakai chatbot agar jawaban yang dihasilkan lebih akurat, lebih stabil, dan lebih berguna bagi pengguna.",

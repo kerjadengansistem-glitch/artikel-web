@@ -1,5 +1,28 @@
 [
   {
+    "judul": "Dashboard Operasional yang Berguna: Data Apa Saja yang Sebaiknya Ditampilkan?",
+    "slug": "dashboard-operasional-yang-berguna-data-apa-saja-yang-sebaiknya-ditampilkan",
+    "ringkasan": "Banyak dashboard terlihat ramai tetapi tidak benar-benar membantu pengambilan keputusan. Artikel ini membahas prinsip membuat dashboard operasional yang berguna, jenis data yang layak ditampilkan, dan cara memastikan dashboard menjadi alat kerja, bukan sekadar pajangan visual.",
+    "gambar": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
+    "kategori": "Data Science",
+    "tag": "data",
+    "baca": "9 menit",
+    "featured": false,
+    "konten": [
+      "Dashboard sering dianggap sebagai simbol bahwa sebuah bisnis sudah data-driven. Namun dalam praktiknya, banyak dashboard justru gagal dipakai secara nyata karena terlalu ramai, terlalu umum, atau tidak menjawab keputusan apa pun. Akibatnya, tim melihat angka setiap hari tetapi tetap bingung harus melakukan tindakan apa setelahnya.",
+      "Dashboard operasional yang berguna seharusnya tidak dibangun dengan pertanyaan data apa yang kita punya, melainkan keputusan apa yang perlu dibantu setiap hari. Dari sana baru ditentukan metrik mana yang benar-benar relevan. Pendekatan ini membuat dashboard lebih fokus dan lebih dekat dengan kebutuhan kerja nyata.",
+      "Sebagai contoh, tim sales membutuhkan visibilitas tentang lead masuk, follow-up tertunda, conversion rate, dan performa per channel. Tim operasional mungkin lebih butuh status order, bottleneck proses, SLA, atau exception yang belum ditangani. Jika semua dicampur dalam satu tampilan umum, dashboard akan terasa padat tetapi miskin arah.",
+      "Salah satu kesalahan umum adalah menampilkan terlalu banyak metrik hanya karena datanya tersedia. Padahal, tidak semua angka layak mendapat tempat utama di dashboard. Metrik yang baik adalah yang punya konsekuensi tindakan. Jika angkanya berubah, tim tahu apa yang perlu diperiksa atau diperbaiki.",
+      "Tampilan visual juga penting, tetapi tidak boleh menjadi fokus utama. Grafik yang indah tidak banyak membantu jika pengguna harus berpikir terlalu lama untuk memahami kondisinya. Dashboard yang efektif biasanya mengutamakan hierarki informasi yang jelas, indikator penting yang mudah terlihat, dan konteks yang cukup untuk membaca perubahan dengan cepat.",
+      "Selain memilih metrik, ritme pembaruan data juga harus disesuaikan dengan kebutuhan operasional. Tidak semua dashboard perlu real-time. Untuk beberapa tim, pembaruan harian sudah cukup. Untuk proses yang sensitif terhadap kecepatan, update lebih sering mungkin dibutuhkan. Menentukan frekuensi yang tepat akan membantu menjaga sistem tetap efisien dan relevan.",
+      "Penting juga menyediakan ruang untuk exception, bukan hanya angka rata-rata. Banyak masalah operasional justru tersembunyi ketika dashboard terlalu fokus pada agregat besar. Menampilkan anomali, keterlambatan, atau kasus yang belum selesai sering kali jauh lebih bernilai daripada sekadar melihat performa umum yang terlihat baik-baik saja.",
+      "Dashboard yang benar-benar dipakai biasanya lahir dari iterasi. Buat versi awal, lihat bagaimana tim menggunakannya, lalu rapikan berdasarkan kebutuhan nyata. Jika dashboard tidak pernah dibuka, masalahnya bisa jadi bukan pada data, tetapi karena tampilannya tidak membantu alur kerja sehari-hari.",
+      "Bagi bisnis yang sedang berkembang, dashboard yang berguna dapat menjadi alat koordinasi yang sangat kuat. Tim tidak lagi hanya mengandalkan intuisi atau asumsi saat rapat, tetapi punya dasar visual yang lebih jelas untuk melihat prioritas dan hambatan yang sedang terjadi.",
+      "Pada akhirnya, dashboard operasional yang baik adalah yang membantu tim bergerak, bukan sekadar mengesankan. Ketika metrik dipilih dengan tepat dan konteks ditampilkan dengan jelas, dashboard berubah dari laporan pasif menjadi alat pengambilan keputusan yang benar-benar hidup di dalam bisnis."
+    ],
+    "tanggal": "8 Juni 2026"
+  },
+  {
     "judul": "Membangun Knowledge Base yang Siap Dipakai Chatbot AI",
     "slug": "membangun-knowledge-base-yang-siap-dipakai-chatbot-ai",
     "ringkasan": "Chatbot AI tidak akan konsisten jika sumber informasi di belakangnya berantakan. Artikel ini membahas bagaimana membangun knowledge base yang rapi, relevan, dan siap dipakai chatbot agar jawaban yang dihasilkan lebih akurat, lebih stabil, dan lebih berguna bagi pengguna.",

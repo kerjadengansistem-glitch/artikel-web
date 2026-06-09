@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Mengurangi Kerja Manual Admin dengan Automation Bertahap",
+    "slug": "mengurangi-kerja-manual-admin-dengan-automation-bertahap",
+    "ringkasan": "Pekerjaan admin sering penuh tugas berulang yang memakan waktu tetapi sulit ditinggalkan begitu saja. Artikel ini membahas cara mengurangi kerja manual admin secara bertahap dengan automation yang realistis, aman, dan mudah diadopsi oleh tim sehari-hari.",
+    "gambar": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "9 Juni 2026",
+    "baca": "9 menit",
+    "link": "artikel/mengurangi-kerja-manual-admin-dengan-automation-bertahap.html",
+    "featured": false
+  },
+  {
     "judul": "Dashboard Operasional yang Berguna: Data Apa Saja yang Sebaiknya Ditampilkan?",
     "slug": "dashboard-operasional-yang-berguna-data-apa-saja-yang-sebaiknya-ditampilkan",
     "ringkasan": "Banyak dashboard terlihat ramai tetapi tidak benar-benar membantu pengambilan keputusan. Artikel ini membahas prinsip membuat dashboard operasional yang berguna, jenis data yang layak ditampilkan, dan cara memastikan dashboard menjadi alat kerja, bukan sekadar pajangan visual.",

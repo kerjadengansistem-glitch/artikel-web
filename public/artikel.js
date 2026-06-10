@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Cara Menilai Apakah Workflow Automation Anda Sudah Benar-Benar Efektif",
+    "slug": "cara-menilai-apakah-workflow-automation-anda-sudah-benar-benar-efektif",
+    "ringkasan": "Workflow automation yang berjalan belum tentu benar-benar efektif. Artikel ini membahas cara menilai kualitas automation dari sisi dampak, stabilitas, keterbacaan proses, dan manfaat bisnis agar tim tidak terkecoh hanya karena workflow terlihat aktif di dashboard.",
+    "gambar": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80",
+    "kategori": "Automation",
+    "tag": "auto",
+    "tanggal": "10 Juni 2026",
+    "baca": "10 menit",
+    "link": "artikel/cara-menilai-apakah-workflow-automation-anda-sudah-benar-benar-efektif.html",
+    "featured": false
+  },
+  {
     "judul": "Mengurangi Kerja Manual Admin dengan Automation Bertahap",
     "slug": "mengurangi-kerja-manual-admin-dengan-automation-bertahap",
     "ringkasan": "Pekerjaan admin sering penuh tugas berulang yang memakan waktu tetapi sulit ditinggalkan begitu saja. Artikel ini membahas cara mengurangi kerja manual admin secara bertahap dengan automation yang realistis, aman, dan mudah diadopsi oleh tim sehari-hari.",

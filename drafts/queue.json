@@ -1,27 +1,5 @@
 [
   {
-    "judul": "Cara Menilai Apakah Workflow Automation Anda Sudah Benar-Benar Efektif",
-    "slug": "cara-menilai-apakah-workflow-automation-anda-sudah-benar-benar-efektif",
-    "ringkasan": "Workflow automation yang berjalan belum tentu benar-benar efektif. Artikel ini membahas cara menilai kualitas automation dari sisi dampak, stabilitas, keterbacaan proses, dan manfaat bisnis agar tim tidak terkecoh hanya karena workflow terlihat aktif di dashboard.",
-    "gambar": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&q=80",
-    "kategori": "Automation",
-    "tag": "auto",
-    "baca": "10 menit",
-    "featured": false,
-    "konten": [
-      "Banyak tim merasa berhasil membangun automation begitu workflow pertama berhasil berjalan tanpa error. Itu memang langkah awal yang penting, tetapi belum cukup untuk menyebut automation tersebut efektif. Workflow yang aktif belum tentu memberi dampak nyata, dan sistem yang terlihat rapi di dashboard belum tentu benar-benar membantu operasional sehari-hari.",
-      "Automation yang efektif seharusnya mengurangi pekerjaan manual, mempercepat alur, menurunkan error, atau meningkatkan visibilitas proses. Jika tidak ada perubahan yang terasa di salah satu area itu, maka tim perlu jujur bertanya apakah workflow yang dibangun hanya sibuk bergerak atau benar-benar menghasilkan nilai bisnis.",
-      "Salah satu indikator paling penting adalah dampak terhadap waktu. Apakah proses yang sebelumnya butuh satu jam kini selesai dalam beberapa menit? Apakah tim tidak lagi harus memindahkan data berulang-ulang? Apakah lead lebih cepat ditindaklanjuti? Pertanyaan seperti ini membantu menilai manfaat secara konkret, bukan hanya berdasarkan rasa puas karena automation berhasil dibuat.",
-      "Stabilitas juga perlu diperhatikan. Workflow yang sering gagal diam-diam, bergantung pada format data yang rapuh, atau hanya dipahami oleh satu orang akan menjadi sumber risiko baru. Dalam jangka panjang, automation seperti ini justru bisa menambah beban karena tim harus terus memadamkan masalah kecil yang muncul berulang.",
-      "Aspek lain yang sering dilupakan adalah keterbacaan proses. Workflow yang terlalu rumit, nama node yang membingungkan, dan dokumentasi yang tidak ada akan menyulitkan perawatan di masa depan. Automation yang sehat seharusnya bisa dipahami kembali setelah beberapa waktu, bahkan jika pembuat awalnya sedang tidak tersedia.",
-      "Tim juga perlu melihat apakah automation menghasilkan data atau jejak proses yang lebih baik. Salah satu manfaat terbesar dari workflow yang rapi adalah visibilitas: siapa melakukan apa, kapan langkah tertentu terjadi, dan di titik mana hambatan muncul. Jika sistem berjalan tetapi tidak memberi insight baru, mungkin desainnya masih bisa diperbaiki.",
-      "Dalam konteks bisnis, efektivitas automation juga berkaitan dengan biaya dan prioritas. Tidak semua proses layak diotomasi sampai sangat kompleks. Kadang workflow sederhana yang stabil dan cukup berguna jauh lebih berharga daripada automation canggih yang sulit dipelihara. Karena itu, evaluasi harus melihat keseimbangan antara effort, manfaat, dan kemudahan perawatan.",
-      "Cara terbaik menilai automation biasanya lewat review berkala. Lihat workflow yang paling sering dipakai, cek titik gagal, tanyakan ke pengguna apakah alur ini benar-benar membantu, lalu rapikan bagian yang tidak memberi dampak. Pendekatan iteratif seperti ini membuat automation tetap relevan seiring perubahan kebutuhan tim.",
-      "Bagi organisasi yang sedang membangun banyak workflow, kemampuan menilai efektivitas menjadi keterampilan penting. Tanpa evaluasi, tim mudah terjebak mengejar jumlah automation, padahal kualitas dan kegunaannya belum tentu sebanding. Sistem yang lebih sedikit tetapi benar-benar dipakai sering kali lebih kuat daripada puluhan workflow yang setengah aktif.",
-      "Pada akhirnya, ukuran keberhasilan automation bukan ada pada seberapa canggih tampilannya, tetapi pada seberapa banyak friksi kerja yang berhasil dihilangkan. Jika workflow membuat proses lebih cepat, lebih jelas, dan lebih bisa diandalkan, barulah automation itu layak disebut efektif."
-    ]
-  },
-  {
     "judul": "AI dan SOP Bisnis: Cara Menjaga Konsistensi di Tengah Pertumbuhan Tim",
     "slug": "ai-dan-sop-bisnis-cara-menjaga-konsistensi-di-tengah-pertumbuhan-tim",
     "ringkasan": "Saat tim bertumbuh, menjaga konsistensi kerja menjadi semakin sulit. Artikel ini membahas bagaimana AI dapat membantu SOP bisnis tetap hidup, mudah diakses, dan lebih mudah diterapkan dalam pekerjaan sehari-hari tanpa membuat proses terasa kaku atau berat.",

@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "AI dan SOP Bisnis: Cara Menjaga Konsistensi di Tengah Pertumbuhan Tim",
+    "slug": "ai-dan-sop-bisnis-cara-menjaga-konsistensi-di-tengah-pertumbuhan-tim",
+    "ringkasan": "Saat tim bertumbuh, menjaga konsistensi kerja menjadi semakin sulit. Artikel ini membahas bagaimana AI dapat membantu SOP bisnis tetap hidup, mudah diakses, dan lebih mudah diterapkan dalam pekerjaan sehari-hari tanpa membuat proses terasa kaku atau berat.",
+    "gambar": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
+    "kategori": "AI Generatif",
+    "tag": "ai",
+    "tanggal": "11 Juni 2026",
+    "baca": "9 menit",
+    "link": "artikel/ai-dan-sop-bisnis-cara-menjaga-konsistensi-di-tengah-pertumbuhan-tim.html",
+    "featured": false
+  },
+  {
     "judul": "Cara Menilai Apakah Workflow Automation Anda Sudah Benar-Benar Efektif",
     "slug": "cara-menilai-apakah-workflow-automation-anda-sudah-benar-benar-efektif",
     "ringkasan": "Workflow automation yang berjalan belum tentu benar-benar efektif. Artikel ini membahas cara menilai kualitas automation dari sisi dampak, stabilitas, keterbacaan proses, dan manfaat bisnis agar tim tidak terkecoh hanya karena workflow terlihat aktif di dashboard.",

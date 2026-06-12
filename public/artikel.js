@@ -1,5 +1,17 @@
 const artikelData = [
   {
+    "judul": "Strategi Konten Evergreen untuk Website AI dan Automation",
+    "slug": "strategi-konten-evergreen-untuk-website-ai-dan-automation",
+    "ringkasan": "Website bertema AI dan automation perlu konten yang tidak cepat usang agar trafik dan nilai edukasinya bisa bertahan. Artikel ini membahas strategi memilih topik evergreen, cara menulisnya agar tetap relevan, dan bagaimana menggabungkannya dengan topik yang lebih aktual.",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80",
+    "kategori": "Konten AI",
+    "tag": "ai",
+    "tanggal": "12 Juni 2026",
+    "baca": "9 menit",
+    "link": "artikel/strategi-konten-evergreen-untuk-website-ai-dan-automation.html",
+    "featured": false
+  },
+  {
     "judul": "AI dan SOP Bisnis: Cara Menjaga Konsistensi di Tengah Pertumbuhan Tim",
     "slug": "ai-dan-sop-bisnis-cara-menjaga-konsistensi-di-tengah-pertumbuhan-tim",
     "ringkasan": "Saat tim bertumbuh, menjaga konsistensi kerja menjadi semakin sulit. Artikel ini membahas bagaimana AI dapat membantu SOP bisnis tetap hidup, mudah diakses, dan lebih mudah diterapkan dalam pekerjaan sehari-hari tanpa membuat proses terasa kaku atau berat.",

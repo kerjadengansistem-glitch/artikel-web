@@ -1,5 +1,28 @@
 [
   {
+    "judul": "Strategi Konten Evergreen untuk Website AI dan Automation",
+    "slug": "strategi-konten-evergreen-untuk-website-ai-dan-automation",
+    "ringkasan": "Website bertema AI dan automation perlu konten yang tidak cepat usang agar trafik dan nilai edukasinya bisa bertahan. Artikel ini membahas strategi memilih topik evergreen, cara menulisnya agar tetap relevan, dan bagaimana menggabungkannya dengan topik yang lebih aktual.",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80",
+    "kategori": "Konten AI",
+    "tag": "ai",
+    "baca": "9 menit",
+    "featured": false,
+    "konten": [
+      "Di bidang AI dan automation, banyak topik terasa sangat menarik karena sedang ramai dibicarakan. Namun masalahnya, topik yang terlalu bergantung pada tren sering cepat kehilangan daya tarik setelah beberapa minggu atau bulan. Jika website hanya diisi dengan konten semacam ini, pertumbuhan jangka panjang akan sulit stabil karena trafik sangat bergantung pada momentum sesaat.",
+      "Di sinilah konten evergreen menjadi penting. Konten evergreen adalah artikel yang tetap relevan dalam waktu lebih panjang karena membahas konsep dasar, panduan praktis, atau pertanyaan yang terus dicari orang meski tren teknologi berubah. Untuk website AI dan automation, jenis konten ini sangat berguna sebagai fondasi pertumbuhan organik dan edukasi audiens.",
+      "Contoh topik evergreen misalnya pengertian AI agent, cara memilih tools automation, panduan membangun chatbot, atau langkah memulai machine learning untuk pemula. Topik-topik seperti ini bisa terus dicari oleh pembaca baru karena pertanyaan dasarnya tetap hidup, meski nama tool atau model yang populer mungkin berubah seiring waktu.",
+      "Menulis konten evergreen bukan berarti membuat artikel yang terlalu umum. Justru artikel perlu cukup spesifik agar benar-benar menjawab kebutuhan pembaca, tetapi tidak terlalu terikat pada detail yang cepat kedaluwarsa. Keseimbangan ini penting agar artikel tetap relevan sekaligus punya nilai praktis yang jelas.",
+      "Salah satu strategi terbaik adalah menggabungkan fondasi konsep dengan konteks penggunaan nyata. Artikel yang hanya definisional sering kurang kuat, sedangkan artikel yang terlalu terikat pada update produk bisa cepat usang. Dengan menjelaskan konsep inti, manfaat praktis, dan contoh implementasi yang cukup umum, konten bisa bertahan lebih lama.",
+      "Website yang sehat biasanya tidak memilih antara konten evergreen atau konten aktual, tetapi menggabungkan keduanya. Konten aktual membantu menangkap momentum dan memberi sinyal bahwa website aktif mengikuti perkembangan industri. Konten evergreen menjaga stabilitas trafik dan memberi pondasi jangka panjang yang lebih kuat.",
+      "Bagi tim kecil, strategi ini juga lebih efisien. Satu artikel evergreen yang bagus dapat diperbarui secara berkala, diberi internal link baru, atau dipakai sebagai halaman rujukan untuk artikel-artikel yang lebih aktual. Dengan begitu, satu aset konten dapat memberi nilai lebih lama dibanding artikel yang hanya hidup sesaat.",
+      "Penting juga merancang struktur situs dan kategori agar konten evergreen mudah ditemukan. Jika artikel dasar tersembunyi di antara banyak posting acak, manfaat jangka panjangnya akan berkurang. Homepage, related posts, dan internal linking perlu membantu pembaca menemukan konten fondasi dengan cepat.",
+      "Untuk website bertema AI dan automation, konten evergreen juga membantu membangun otoritas. Ketika pembaca menemukan artikel yang jelas, rapi, dan menjawab kebutuhan dasar mereka dengan baik, kepercayaan terhadap brand akan tumbuh. Dari situ, konten lain yang lebih spesifik atau lebih baru juga lebih mudah diterima.",
+      "Pada akhirnya, strategi konten evergreen adalah cara membangun website yang tidak mudah goyah oleh perubahan tren. Dengan memilih topik yang tepat dan menulisnya secara tahan lama, website bisa terus memberi nilai bagi pembaca baru sambil memperkuat fondasi pertumbuhan organik dari waktu ke waktu."
+    ],
+    "tanggal": "12 Juni 2026"
+  },
+  {
     "judul": "AI dan SOP Bisnis: Cara Menjaga Konsistensi di Tengah Pertumbuhan Tim",
     "slug": "ai-dan-sop-bisnis-cara-menjaga-konsistensi-di-tengah-pertumbuhan-tim",
     "ringkasan": "Saat tim bertumbuh, menjaga konsistensi kerja menjadi semakin sulit. Artikel ini membahas bagaimana AI dapat membantu SOP bisnis tetap hidup, mudah diakses, dan lebih mudah diterapkan dalam pekerjaan sehari-hari tanpa membuat proses terasa kaku atau berat.",
